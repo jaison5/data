@@ -1,0 +1,8 @@
+# Versions used for the experiments (Python 3.11). Newer versions should also work.
+torch>=2.4          # used: 2.11.0 (CUDA 12.8 build); CPU-only builds also work
+numpy>=1.26         # used: 2.4.6
+pandas>=2.0         # used: 3.0.6
+scipy>=1.10         # used: 1.17.1
+matplotlib>=3.7     # paper figures only
+yfinance            # only needed to re-download the data snapshots
+# PennyLane reproduction in qfin-main/: see qfin-main/requirements-pl.txt

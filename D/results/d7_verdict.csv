@@ -1,0 +1,4 @@
+strategy,beats_top3_etf,p_vs_SPY,quantum_contribution,max_p_vs_rivals_ratio,max_p_vs_rivals_sharpe
+VT_QLSTM,False,0.0185,False,0.9655,0.8685
+VT_QFWP,False,0.054,False,0.9845,0.958
+E2E_QLSTM,True,0.0015,False,0.6065,0.613

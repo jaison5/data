@@ -1,0 +1,5 @@
+cap,model,beats_plainVT,beats_all_classical,success,p_vs_plainVT,p_teacher_vs_plainVT,max_p_vs_classical,max_p_teacher_vs_classical
+1.0,QLSTM,False,False,False,0.594,0.198,0.021,0.0235
+1.0,QFWP,False,False,False,0.9975,0.912,0.8405,0.7765
+1.5,QLSTM,False,False,False,0.614,0.423,0.016,0.0215
+1.5,QFWP,False,False,False,0.965,0.868,0.663,0.5925

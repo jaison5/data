@@ -1,0 +1,54 @@
+B:\qfin-main\qfin-main\pl_exp2.py:58: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:821.)
+  tot += float(loss) * len(j)
+  QLSTM s0 epoch 1/50: loss 0.7048, test acc 0.4545
+  QLSTM s0 epoch 2/50: loss 0.6972, test acc 0.4205
+  QLSTM s0 epoch 3/50: loss 0.6957, test acc 0.4886
+  QLSTM s0 epoch 4/50: loss 0.6945, test acc 0.4886
+  QLSTM s0 epoch 5/50: loss 0.6941, test acc 0.6477
+  QLSTM s0 epoch 6/50: loss 0.6934, test acc 0.5455
+  QLSTM s0 epoch 7/50: loss 0.6922, test acc 0.6591
+  QLSTM s0 epoch 8/50: loss 0.6920, test acc 0.6136
+  QLSTM s0 epoch 9/50: loss 0.6913, test acc 0.6477
+  QLSTM s0 epoch 10/50: loss 0.6914, test acc 0.6477
+  QLSTM s0 epoch 11/50: loss 0.6907, test acc 0.6250
+  QLSTM s0 epoch 12/50: loss 0.6904, test acc 0.6136
+  QLSTM s0 epoch 13/50: loss 0.6901, test acc 0.5795
+  QLSTM s0 epoch 14/50: loss 0.6896, test acc 0.6136
+  QLSTM s0 epoch 15/50: loss 0.6896, test acc 0.5909
+  QLSTM s0 epoch 16/50: loss 0.6897, test acc 0.6250
+  QLSTM s0 epoch 17/50: loss 0.6895, test acc 0.6364
+  QLSTM s0 epoch 18/50: loss 0.6893, test acc 0.6477
+  QLSTM s0 epoch 19/50: loss 0.6893, test acc 0.5795
+  QLSTM s0 epoch 20/50: loss 0.6890, test acc 0.5909
+  QLSTM s0 epoch 21/50: loss 0.6889, test acc 0.5795
+  QLSTM s0 epoch 22/50: loss 0.6893, test acc 0.5682
+  QLSTM s0 epoch 23/50: loss 0.6886, test acc 0.5795
+  QLSTM s0 epoch 24/50: loss 0.6895, test acc 0.5795
+  QLSTM s0 epoch 25/50: loss 0.6888, test acc 0.5795
+  QLSTM s0 epoch 26/50: loss 0.6886, test acc 0.5795
+  QLSTM s0 epoch 27/50: loss 0.6884, test acc 0.5795
+  QLSTM s0 epoch 28/50: loss 0.6887, test acc 0.5795
+  QLSTM s0 epoch 29/50: loss 0.6883, test acc 0.5795
+  QLSTM s0 epoch 30/50: loss 0.6884, test acc 0.5909
+  QLSTM s0 epoch 31/50: loss 0.6890, test acc 0.6023
+  QLSTM s0 epoch 32/50: loss 0.6888, test acc 0.6136
+  QLSTM s0 epoch 33/50: loss 0.6885, test acc 0.6250
+  QLSTM s0 epoch 34/50: loss 0.6886, test acc 0.6136
+  QLSTM s0 epoch 35/50: loss 0.6885, test acc 0.5795
+  QLSTM s0 epoch 36/50: loss 0.6886, test acc 0.5795
+  QLSTM s0 epoch 37/50: loss 0.6885, test acc 0.6136
+  QLSTM s0 epoch 38/50: loss 0.6888, test acc 0.6250
+  QLSTM s0 epoch 39/50: loss 0.6881, test acc 0.6477
+  QLSTM s0 epoch 40/50: loss 0.6883, test acc 0.6136
+  QLSTM s0 epoch 41/50: loss 0.6882, test acc 0.5795
+  QLSTM s0 epoch 42/50: loss 0.6882, test acc 0.5795
+  QLSTM s0 epoch 43/50: loss 0.6888, test acc 0.5909
+  QLSTM s0 epoch 44/50: loss 0.6886, test acc 0.5909
+  QLSTM s0 epoch 45/50: loss 0.6882, test acc 0.5795
+  QLSTM s0 epoch 46/50: loss 0.6889, test acc 0.5795
+  QLSTM s0 epoch 47/50: loss 0.6881, test acc 0.5909
+  QLSTM s0 epoch 48/50: loss 0.6882, test acc 0.5795
+  QLSTM s0 epoch 49/50: loss 0.6880, test acc 0.6136
+  QLSTM s0 epoch 50/50: loss 0.6880, test acc 0.5795
+QLSTM seed 0: test acc 0.5795（論文約 0.715；多數類別 0.5114）

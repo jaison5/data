@@ -1,0 +1,16 @@
+{
+ "model": "QLSTM",
+ "batch": 16,
+ "seed": 1,
+ "variant": "paper",
+ "backend": "lightning.qubit/adjoint",
+ "n_params": 32,
+ "rmse": 0.004058991811370762,
+ "da_paper": 59.65073529411765,
+ "da_known": 71.80899908172636,
+ "train_forward_s": 223.5024395341752,
+ "backward_s": 13.510937134269625,
+ "full_train_s": 237.15177183307242,
+ "inference_s": 25.768164042034186,
+ "steps_per_epoch": 274
+}

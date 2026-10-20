@@ -1,0 +1,42 @@
+cap1 2004 QLSTM  15 models, 84 s
+cap1 2004 QLSTM   5 models, 82 s
+cap1 2001 QLSTM  15 models, 75 s
+cap1 2001 QLSTM   5 models, 72 s
+cap1 1997 QLSTM  15 models, 16 s
+cap1 1997 QLSTM   5 models, 50 s
+cap1 1995 QLSTM  15 models, 18 s
+cap1 1995 QLSTM   5 models, 38 s
+NDX 2024 QLSTM 15 models, 1506 s [cuda]
+[0] vol_2024_QLSTM failed: AcceleratorError("CUDA error: out of memory\nSearch for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.\nCUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.\nFor debugging consider passing CUDA_LAUNCH_BLOCKING=1\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n")
+Process SpawnProcess-1:
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "B:\qfin-main\D\d7_ndx.py", line 95, in worker
+    try:
+         
+  File "B:\qfin-main\D\d4_vol.py", line 130, in run_config
+    go([(best, s) for s in range(N_SEL, N_SEL + N_ADD)])
+  File "B:\qfin-main\D\d4_vol.py", line 119, in go
+    res, _ = train_group(d, tr, va, te, model, [lr for lr, _ in todo], [s for _, s in todo], device)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "B:\qfin-main\A\gpu_batch.py", line 183, in train_group
+    one_epoch()
+  File "B:\qfin-main\A\gpu_batch.py", line 169, in one_epoch
+    loss.sum().backward()
+  File "B:\qfin-main\B\.venv-gpu\Lib\site-packages\torch\_tensor.py", line 631, in backward
+    torch.autograd.backward(
+  File "B:\qfin-main\B\.venv-gpu\Lib\site-packages\torch\autograd\__init__.py", line 381, in backward
+    _engine_run_backward(
+  File "B:\qfin-main\B\.venv-gpu\Lib\site-packages\torch\autograd\graph.py", line 869, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+D7 done

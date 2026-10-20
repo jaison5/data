@@ -1,0 +1,153 @@
+{
+ "device_vjp": true,
+ "rows": [
+  {
+   "model": "QFWP",
+   "batch": 1,
+   "n": 3,
+   "train_forward_s": 56.71738439949695,
+   "backward_s": 9.070463304000441,
+   "full_train_s": 68.0108201999683,
+   "inference_s": 6.320746099983808
+  },
+  {
+   "model": "QFWP",
+   "batch": 4,
+   "n": 3,
+   "train_forward_s": 28.92121769982623,
+   "train_forward_s_speedup": 2.0150511574107823,
+   "backward_s": 5.109711399534717,
+   "backward_s_speedup": 1.7974729840631687,
+   "full_train_s": 34.65257330000168,
+   "full_train_s_speedup": 2.018514920159383,
+   "inference_s": 3.3009337999974377,
+   "inference_s_speedup": 1.9148357655608585
+  },
+  {
+   "model": "QFWP",
+   "batch": 8,
+   "n": 3,
+   "train_forward_s": 24.22110550000798,
+   "train_forward_s_speedup": 2.3726794985391195,
+   "backward_s": 4.295835300465114,
+   "backward_s_speedup": 2.1497747281175834,
+   "full_train_s": 28.84305059997132,
+   "full_train_s_speedup": 2.392944368435723,
+   "inference_s": 2.726570700004231,
+   "inference_s_speedup": 2.2452220157601936
+  },
+  {
+   "model": "QFWP",
+   "batch": 16,
+   "n": 3,
+   "train_forward_s": 22.51059500023257,
+   "train_forward_s_speedup": 2.552576768236433,
+   "backward_s": 3.769251199439168,
+   "backward_s_speedup": 2.4294664464034823,
+   "full_train_s": 26.450216300028842,
+   "full_train_s_speedup": 2.6031997120727994,
+   "inference_s": 2.479845900030341,
+   "inference_s_speedup": 2.398840911806071
+  },
+  {
+   "model": "QFWP",
+   "batch": 32,
+   "n": 3,
+   "train_forward_s": 22.94241769996006,
+   "train_forward_s_speedup": 2.527863160621353,
+   "backward_s": 3.6240705996751785,
+   "backward_s_speedup": 2.5645506325319736,
+   "full_train_s": 26.706695100001525,
+   "full_train_s_speedup": 2.614396029129269,
+   "inference_s": 2.4031928000040352,
+   "inference_s_speedup": 2.6301452384399595
+  },
+  {
+   "model": "QFWP",
+   "batch": 64,
+   "n": 3,
+   "train_forward_s": 22.14657709939638,
+   "train_forward_s_speedup": 2.5610000202262775,
+   "backward_s": 3.49586810026085,
+   "backward_s_speedup": 2.594624008647132,
+   "full_train_s": 25.68925070000114,
+   "full_train_s_speedup": 2.647442737594728,
+   "inference_s": 2.5152011000318453,
+   "inference_s_speedup": 2.367241551356422
+  },
+  {
+   "model": "QLSTM",
+   "batch": 1,
+   "n": 3,
+   "train_forward_s": 418.1959533960908,
+   "backward_s": 170.13677260366967,
+   "full_train_s": 590.9648191000451,
+   "inference_s": 45.86527950002346
+  },
+  {
+   "model": "QLSTM",
+   "batch": 4,
+   "n": 3,
+   "train_forward_s": 227.0723804991576,
+   "train_forward_s_speedup": 1.8404989122244446,
+   "backward_s": 142.68794659984997,
+   "backward_s_speedup": 1.1919305753972385,
+   "full_train_s": 369.94984959997237,
+   "full_train_s_speedup": 1.5938218333872094,
+   "inference_s": 24.805119100026786,
+   "inference_s_speedup": 1.8461893348715261
+  },
+  {
+   "model": "QLSTM",
+   "batch": 8,
+   "n": 3,
+   "train_forward_s": 195.92794779932592,
+   "train_forward_s_speedup": 2.13668842602718,
+   "backward_s": 134.92899689998012,
+   "backward_s_speedup": 1.2658280008232348,
+   "full_train_s": 331.22317670000484,
+   "full_train_s_speedup": 1.787472372551446,
+   "inference_s": 20.76044230000116,
+   "inference_s_speedup": 2.218085011234049
+  },
+  {
+   "model": "QLSTM",
+   "batch": 16,
+   "n": 3,
+   "train_forward_s": 176.9283718006336,
+   "train_forward_s_speedup": 2.36364552016181,
+   "backward_s": 133.04525079909945,
+   "backward_s_speedup": 1.2797628764248916,
+   "full_train_s": 310.1619257000275,
+   "full_train_s_speedup": 1.9053428874812817,
+   "inference_s": 19.604412299988326,
+   "inference_s_speedup": 2.298046220673784
+  },
+  {
+   "model": "QLSTM",
+   "batch": 32,
+   "n": 3,
+   "train_forward_s": 166.93689790001372,
+   "train_forward_s_speedup": 2.5077558266885873,
+   "backward_s": 131.99600219976855,
+   "backward_s_speedup": 1.2889539816984548,
+   "full_train_s": 298.526834499964,
+   "full_train_s_speedup": 1.983246425708024,
+   "inference_s": 19.2310174999875,
+   "inference_s_speedup": 2.3262367526833856
+  },
+  {
+   "model": "QLSTM",
+   "batch": 64,
+   "n": 3,
+   "train_forward_s": 170.71872150042327,
+   "train_forward_s_speedup": 2.4496197588678283,
+   "backward_s": 131.62062559934566,
+   "backward_s_speedup": 1.295432689536514,
+   "full_train_s": 302.38765809999313,
+   "full_train_s_speedup": 1.9543285027348096,
+   "inference_s": 19.57160639995709,
+   "inference_s_speedup": 2.285755128412268
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+QA3C paper qlstm y2020 s2: 100/1600 episodes，近 100 次平均獎勵 -540.6，驗證 Sharpe -0.53（交易 1 次），0.9 分鐘
+QA3C paper qlstm y2020 s2: 200/1600 episodes，近 100 次平均獎勵 -239.2，驗證 Sharpe -1.47（交易 25 次），1.6 分鐘
+QA3C paper qlstm y2020 s2: 300/1600 episodes，近 100 次平均獎勵 69.9，驗證 Sharpe -3.68（交易 129 次），2.3 分鐘
+QA3C paper qlstm y2020 s2: 400/1600 episodes，近 100 次平均獎勵 234.0，驗證 Sharpe -3.68（交易 129 次），2.9 分鐘
+QA3C paper qlstm y2020 s2: 500/1600 episodes，近 100 次平均獎勵 477.9，驗證 Sharpe -3.68（交易 129 次），3.6 分鐘
+QA3C paper qlstm y2020 s2: 600/1600 episodes，近 100 次平均獎勵 727.0，驗證 Sharpe -3.68（交易 129 次），4.2 分鐘
+QA3C paper qlstm y2020 s2: 700/1600 episodes，近 100 次平均獎勵 814.5，驗證 Sharpe -3.68（交易 129 次），4.8 分鐘
+QA3C paper qlstm y2020 s2: 800/1600 episodes，近 100 次平均獎勵 1042.0，驗證 Sharpe -3.68（交易 129 次），5.4 分鐘
+QA3C paper qlstm y2020 s2: 900/1600 episodes，近 100 次平均獎勵 1147.0，驗證 Sharpe -3.68（交易 129 次），6.0 分鐘
+QA3C paper qlstm y2020 s2: 1000/1600 episodes，近 100 次平均獎勵 1268.4，驗證 Sharpe -3.68（交易 129 次），6.6 分鐘
+QA3C paper qlstm y2020 s2: 1100/1600 episodes，近 100 次平均獎勵 1465.6，驗證 Sharpe -3.68（交易 129 次），7.3 分鐘
+QA3C paper qlstm y2020 s2: 1200/1600 episodes，近 100 次平均獎勵 1641.2，驗證 Sharpe -3.68（交易 129 次），7.9 分鐘
+QA3C paper qlstm y2020 s2: 1300/1600 episodes，近 100 次平均獎勵 1636.0，驗證 Sharpe -3.68（交易 129 次），8.6 分鐘
+QA3C paper qlstm y2020 s2: 1400/1600 episodes，近 100 次平均獎勵 1718.6，驗證 Sharpe -3.68（交易 129 次），9.2 分鐘
+QA3C paper qlstm y2020 s2: 1500/1600 episodes，近 100 次平均獎勵 1886.1，驗證 Sharpe -3.68（交易 129 次），9.8 分鐘
+QA3C paper qlstm y2020 s2: 1600/1600 episodes，近 100 次平均獎勵 1974.7，驗證 Sharpe -3.68（交易 129 次），10.4 分鐘
+完成 QA3C_paper_qlstm_y2020_s2.json：測試年報酬 -6.11%（成本 0.05%），Sharpe -1.13，交易 0 次，持倉 100%，10.4 分鐘

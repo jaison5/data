@@ -1,0 +1,21 @@
+SPY 2026 LSTM1 15 models, 5 s
+QQQ 2026 LSTM1 15 models, 5 s
+QQQ 2026 LSTM3 15 models, 5 s
+SPY 2026 LSTM3 15 models, 6 s
+SPY 2026 FWPC  15 models, 6 s
+QQQ 2026 FWPC  15 models, 7 s
+SPY 2026 LSTM3  5 models, 2 s
+QQQ 2026 LSTM3  5 models, 3 s
+SPY 2026 LSTM1  5 models, 4 s
+QQQ 2026 LSTM1  5 models, 4 s
+SPY 2026 FWPC   5 models, 5 s
+QQQ 2026 FWPC   5 models, 5 s
+SPY 2026 QFWP  15 models, 14 s
+QQQ 2026 QFWP  15 models, 14 s
+SPY 2026 QFWP   5 models, 11 s
+QQQ 2026 QFWP   5 models, 11 s
+QQQ 2026 QLSTM 15 models, 247 s
+SPY 2026 QLSTM 15 models, 248 s
+SPY 2026 QLSTM  5 models, 237 s
+QQQ 2026 QLSTM  5 models, 268 s
+D1 done

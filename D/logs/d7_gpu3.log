@@ -1,0 +1,13 @@
+cap1 2003 QLSTM  15 models, 74 s
+cap1 2003 QLSTM   5 models, 77 s
+cap1 1999 QLSTM  15 models, 27 s
+cap1 1999 QLSTM   5 models, 11 s
+cap1 1998 QLSTM  15 models, 49 s
+cap1 1998 QLSTM   5 models, 51 s
+NDX 2026 QLSTM 15 models, 1045 s [cuda]
+NDX 2026 QLSTM  5 models, 736 s [cuda]
+NDX 2003 QLSTM 15 models, 170 s [cuda]
+NDX 2003 QLSTM  5 models, 222 s [cuda]
+NDX 2000 QLSTM 15 models, 147 s [cuda]
+NDX 2000 QLSTM  5 models, 145 s [cuda]
+D7 done

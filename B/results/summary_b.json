@@ -1,0 +1,874 @@
+{
+ "b1": [
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 1,
+   "fwd_ms": 7.044049998512492,
+   "bwd_ms": 17.048650013748556,
+   "step_ms": 24.092700012261048,
+   "per_sample_ms": 24.092700012261048,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 4,
+   "fwd_ms": 6.943699991097674,
+   "bwd_ms": 16.933999984757975,
+   "step_ms": 23.87769997585565,
+   "per_sample_ms": 5.969424993963912,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 16,
+   "fwd_ms": 6.824599986430258,
+   "bwd_ms": 16.71324999188073,
+   "step_ms": 23.537849978310987,
+   "per_sample_ms": 1.4711156236444367,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 64,
+   "fwd_ms": 6.897700019180775,
+   "bwd_ms": 16.69404996209778,
+   "step_ms": 23.591749981278554,
+   "per_sample_ms": 0.3686210934574774,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 256,
+   "fwd_ms": 6.83170001138933,
+   "bwd_ms": 16.777949989773333,
+   "step_ms": 23.609650001162663,
+   "per_sample_ms": 0.09222519531704165,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 1,
+   "fwd_ms": 3.60780002665706,
+   "bwd_ms": 2.586599992355332,
+   "step_ms": 6.194400019012392,
+   "per_sample_ms": 6.194400019012392,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 4,
+   "fwd_ms": 3.6461499985307455,
+   "bwd_ms": 2.5498000031802803,
+   "step_ms": 6.195950001711026,
+   "per_sample_ms": 1.5489875004277565,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 16,
+   "fwd_ms": 3.609899984439835,
+   "bwd_ms": 2.5821499875746667,
+   "step_ms": 6.192049972014502,
+   "per_sample_ms": 0.38700312325090636,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 64,
+   "fwd_ms": 3.6432000051718205,
+   "bwd_ms": 2.533699997002259,
+   "step_ms": 6.176900002174079,
+   "per_sample_ms": 0.09651406253396999,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 256,
+   "fwd_ms": 3.6296999896876514,
+   "bwd_ms": 2.5525999953970313,
+   "step_ms": 6.182299985084683,
+   "per_sample_ms": 0.024149609316737042,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 1,
+   "fwd_ms": 34.83520000008866,
+   "bwd_ms": 3.359600028488785,
+   "step_ms": 38.19480002857745,
+   "per_sample_ms": 38.19480002857745,
+   "reps": 33
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 4,
+   "fwd_ms": 77.43819995084777,
+   "bwd_ms": 7.215999998152256,
+   "step_ms": 84.65419994900003,
+   "per_sample_ms": 21.163549987250008,
+   "reps": 17
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 16,
+   "fwd_ms": 240.4829500010237,
+   "bwd_ms": 21.803449984872714,
+   "step_ms": 262.2863999858964,
+   "per_sample_ms": 16.392899999118526,
+   "reps": 6
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 64,
+   "fwd_ms": 1021.0247000213712,
+   "bwd_ms": 78.3796000177972,
+   "step_ms": 1099.4043000391684,
+   "per_sample_ms": 17.178192188112007,
+   "reps": 3
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 256,
+   "fwd_ms": 4393.387600022834,
+   "bwd_ms": 533.9394999900833,
+   "step_ms": 4927.327100012917,
+   "per_sample_ms": 19.247371484425457,
+   "reps": 3
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 1,
+   "fwd_ms": 6.175949994940311,
+   "bwd_ms": 0.6855000101495534,
+   "step_ms": 6.861450005089864,
+   "per_sample_ms": 6.861450005089864,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 4,
+   "fwd_ms": 12.610500009031966,
+   "bwd_ms": 1.1129000049550086,
+   "step_ms": 13.723400013986975,
+   "per_sample_ms": 3.4308500034967437,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 16,
+   "fwd_ms": 36.06080001918599,
+   "bwd_ms": 2.632949996041134,
+   "step_ms": 38.693750015227124,
+   "per_sample_ms": 2.4183593759516953,
+   "reps": 40
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 64,
+   "fwd_ms": 116.81139998836443,
+   "bwd_ms": 8.236999972723424,
+   "step_ms": 125.04839996108785,
+   "per_sample_ms": 1.9538812493919977,
+   "reps": 11
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 256,
+   "fwd_ms": 570.6768999807537,
+   "bwd_ms": 31.7403000080958,
+   "step_ms": 602.4171999888495,
+   "per_sample_ms": 2.353192187456443,
+   "reps": 3
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 1,
+   "fwd_ms": 34.70349998679012,
+   "bwd_ms": 16.130600008182228,
+   "step_ms": 50.83409999497235,
+   "per_sample_ms": 50.83409999497235,
+   "reps": 27
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 4,
+   "fwd_ms": 77.8330999892205,
+   "bwd_ms": 52.04420001246035,
+   "step_ms": 129.87730000168085,
+   "per_sample_ms": 32.46932500042021,
+   "reps": 11
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 16,
+   "fwd_ms": 242.8700499876868,
+   "bwd_ms": 191.12265002331696,
+   "step_ms": 433.99270001100376,
+   "per_sample_ms": 27.124543750687735,
+   "reps": 4
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 64,
+   "fwd_ms": 1002.8252000338398,
+   "bwd_ms": 773.2164000044577,
+   "step_ms": 1776.0416000382975,
+   "per_sample_ms": 27.750650000598398,
+   "reps": 3
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 256,
+   "fwd_ms": 4662.9568000207655,
+   "bwd_ms": 3370.9221000317484,
+   "step_ms": 8033.878900052514,
+   "per_sample_ms": 31.382339453330133,
+   "reps": 3
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 1,
+   "fwd_ms": 6.217800022568554,
+   "bwd_ms": 1.1812000011559576,
+   "step_ms": 7.399000023724511,
+   "per_sample_ms": 7.399000023724511,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 4,
+   "fwd_ms": 12.654999969527125,
+   "bwd_ms": 2.3685499909333885,
+   "step_ms": 15.023549960460514,
+   "per_sample_ms": 3.7558874901151285,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 16,
+   "fwd_ms": 32.080399978440255,
+   "bwd_ms": 5.9757999842986465,
+   "step_ms": 38.0561999627389,
+   "per_sample_ms": 2.3785124976711813,
+   "reps": 35
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 64,
+   "fwd_ms": 111.71960001229309,
+   "bwd_ms": 21.226500015472993,
+   "step_ms": 132.94610002776608,
+   "per_sample_ms": 2.077282812933845,
+   "reps": 10
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 256,
+   "fwd_ms": 556.0976000269875,
+   "bwd_ms": 82.18219998525456,
+   "step_ms": 638.279800012242,
+   "per_sample_ms": 2.4932804687978205,
+   "reps": 3
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_pshift",
+   "batch": 1,
+   "error": "Computing the gradient of broadcasted tapes with respect to the broadcasted parameters using the parameter-shift rule gradient transform is currently not supported. See #4462 for details."
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_pshift",
+   "batch": 4,
+   "error": "Computing the gradient of broadcasted tapes with respect to the broadcasted parameters using the parameter-shift rule gradient transform is currently not supported. See #4462 for details."
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_pshift",
+   "batch": 1,
+   "error": "Computing the gradient of broadcasted tapes with respect to the broadcasted parameters using the parameter-shift rule gradient transform is currently not supported. See #4462 for details."
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_pshift",
+   "batch": 4,
+   "error": "Computing the gradient of broadcasted tapes with respect to the broadcasted parameters using the parameter-shift rule gradient transform is currently not supported. See #4462 for details."
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 1,
+   "fwd_ms": 58.537500037346035,
+   "bwd_ms": 32.07650000695139,
+   "step_ms": 90.61400004429743,
+   "per_sample_ms": 90.61400004429743,
+   "reps": 17
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 4,
+   "fwd_ms": 59.587700001429766,
+   "bwd_ms": 33.85880001587793,
+   "step_ms": 93.4465000173077,
+   "per_sample_ms": 23.361625004326925,
+   "reps": 15
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 16,
+   "fwd_ms": 71.25249999808148,
+   "bwd_ms": 45.36989994812757,
+   "step_ms": 116.62239994620904,
+   "per_sample_ms": 7.288899996638065,
+   "reps": 13
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 64,
+   "fwd_ms": 83.82274999166839,
+   "bwd_ms": 66.81089999619871,
+   "step_ms": 150.6336499878671,
+   "per_sample_ms": 2.3536507810604235,
+   "reps": 10
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 256,
+   "fwd_ms": 137.60570003069006,
+   "bwd_ms": 155.55875000427477,
+   "step_ms": 293.16445003496483,
+   "per_sample_ms": 1.1451736329490814,
+   "reps": 6
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 1,
+   "fwd_ms": 6.1744000122416764,
+   "bwd_ms": 0.9640500065870583,
+   "step_ms": 7.138450018828735,
+   "per_sample_ms": 7.138450018828735,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 4,
+   "fwd_ms": 6.3412000017706305,
+   "bwd_ms": 1.0050999990198761,
+   "step_ms": 7.346300000790507,
+   "per_sample_ms": 1.8365750001976267,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 16,
+   "fwd_ms": 6.420099991373718,
+   "bwd_ms": 1.0076000180561095,
+   "step_ms": 7.427700009429827,
+   "per_sample_ms": 0.4642312505893642,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 64,
+   "fwd_ms": 6.64939999114722,
+   "bwd_ms": 1.0892999998759478,
+   "step_ms": 7.738699991023168,
+   "per_sample_ms": 0.120917187359737,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 256,
+   "fwd_ms": 7.418950030114502,
+   "bwd_ms": 1.361150003504008,
+   "step_ms": 8.78010003361851,
+   "per_sample_ms": 0.034297265756322304,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 1,
+   "fwd_ms": 2.597999991849065,
+   "bwd_ms": 4.285300004994497,
+   "step_ms": 6.8832999968435615,
+   "per_sample_ms": 6.8832999968435615,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 4,
+   "fwd_ms": 2.7951500087510794,
+   "bwd_ms": 4.6695500204805285,
+   "step_ms": 7.464700029231608,
+   "per_sample_ms": 1.866175007307902,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 16,
+   "fwd_ms": 3.4858000290114433,
+   "bwd_ms": 6.130299996584654,
+   "step_ms": 9.616100025596097,
+   "per_sample_ms": 0.6010062515997561,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 64,
+   "fwd_ms": 6.211999978404492,
+   "bwd_ms": 11.882700026035309,
+   "step_ms": 18.0947000044398,
+   "per_sample_ms": 0.2827296875693719,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 256,
+   "fwd_ms": 16.229000000748783,
+   "bwd_ms": 32.587199995759875,
+   "step_ms": 48.81619999650866,
+   "per_sample_ms": 0.19068828123636195,
+   "reps": 29
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 1,
+   "fwd_ms": 0.9813000215217471,
+   "bwd_ms": 0.5550000059884042,
+   "step_ms": 1.5363000275101513,
+   "per_sample_ms": 1.5363000275101513,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 4,
+   "fwd_ms": 0.9939500014297664,
+   "bwd_ms": 0.5671000108122826,
+   "step_ms": 1.561050012242049,
+   "per_sample_ms": 0.39026250306051224,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 16,
+   "fwd_ms": 1.0161000245716423,
+   "bwd_ms": 0.58305001584813,
+   "step_ms": 1.5991500404197723,
+   "per_sample_ms": 0.09994687752623577,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 64,
+   "fwd_ms": 1.0966499976348132,
+   "bwd_ms": 0.6349500035867095,
+   "step_ms": 1.7316000012215227,
+   "per_sample_ms": 0.027056250019086292,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 256,
+   "fwd_ms": 2.003349974984303,
+   "bwd_ms": 1.1897000076714903,
+   "step_ms": 3.1930499826557934,
+   "per_sample_ms": 0.012472851494749193,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 1,
+   "fwd_ms": 0.18889998318627477,
+   "bwd_ms": 0.3040499868802726,
+   "step_ms": 0.4929499700665474,
+   "per_sample_ms": 0.4929499700665474,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 4,
+   "fwd_ms": 0.19964997773058712,
+   "bwd_ms": 0.3093999985139817,
+   "step_ms": 0.5090499762445688,
+   "per_sample_ms": 0.1272624940611422,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 16,
+   "fwd_ms": 0.2046999870799482,
+   "bwd_ms": 0.3105000068899244,
+   "step_ms": 0.5151999939698726,
+   "per_sample_ms": 0.03219999962311704,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 64,
+   "fwd_ms": 0.23605002206750214,
+   "bwd_ms": 0.3284999984316528,
+   "step_ms": 0.5645500204991549,
+   "per_sample_ms": 0.008821094070299296,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 256,
+   "fwd_ms": 0.38559999666176736,
+   "bwd_ms": 0.41465001413598657,
+   "step_ms": 0.8002500107977539,
+   "per_sample_ms": 0.0031259766046787263,
+   "reps": 50
+  }
+ ],
+ "tracker_batch16": {
+  "lightning.qubit": {
+   "execute_and_derivative_batches": 2,
+   "executions": 32,
+   "derivatives": 32
+  },
+  "default.qubit": {
+   "batches": 1,
+   "simulations": 1,
+   "executions": 16
+  }
+ },
+ "b2": [
+  {
+   "model": "QLSTM",
+   "batch": "non-batch",
+   "PennyLane 秒": 473.8679269999848,
+   "fastsim CPU 秒": 80.47089319996303,
+   "fastsim GPU 秒": 212.00968920002924,
+   "fastsim CPU 比 PennyLane 快": 5.888687302407158,
+   "fastsim GPU 比 PennyLane 快": 2.235123917156893,
+   "PennyLane RMSE": "0.00421 ± 0.00031",
+   "PennyLane DA": "60.33 ± 2.20",
+   "fastsim CPU RMSE": "0.00421 ± 0.00031",
+   "fastsim CPU DA": "60.33 ± 2.20",
+   "同種子 RMSE 最大差": 6.418476861114186e-17,
+   "同種子 RMSE 相同（差<1e-8）的比例": 1.0
+  },
+  {
+   "model": "QLSTM",
+   "batch": 4,
+   "PennyLane 秒": 255.14142954998533,
+   "PennyLane 加速": 1.8295317025353142,
+   "fastsim CPU 秒": 21.370118049992016,
+   "fastsim CPU 加速": 3.690232021507275,
+   "fastsim GPU 秒": 50.92145639995579,
+   "fastsim GPU 加速": 4.1634647590364935,
+   "fastsim CPU 比 PennyLane 快": 11.939167998656922,
+   "fastsim GPU 比 PennyLane 快": 5.0104896361567315,
+   "PennyLane RMSE": "0.00424 ± 0.00053",
+   "PennyLane DA": "60.74 ± 1.72",
+   "fastsim CPU RMSE": "0.00424 ± 0.00053",
+   "fastsim CPU DA": "60.74 ± 1.72",
+   "同種子 RMSE 最大差": 5.204170427930421e-18,
+   "同種子 RMSE 相同（差<1e-8）的比例": 1.0
+  },
+  {
+   "model": "QLSTM",
+   "batch": 8,
+   "PennyLane 秒": 217.12348234999808,
+   "PennyLane 加速": 2.1365363484553916,
+   "fastsim CPU 秒": 11.677183000021614,
+   "fastsim CPU 加速": 6.878828261183116,
+   "fastsim GPU 秒": 27.04581560002407,
+   "fastsim GPU 加速": 7.737624149115983,
+   "fastsim CPU 比 PennyLane 快": 18.593823728684924,
+   "fastsim GPU 比 PennyLane 快": 8.027987972742254,
+   "PennyLane RMSE": "0.00407 ± 0.00029",
+   "PennyLane DA": "60.32 ± 1.50",
+   "fastsim CPU RMSE": "0.00407 ± 0.00029",
+   "fastsim CPU DA": "60.32 ± 1.50",
+   "同種子 RMSE 最大差": 6.938893903907228e-18,
+   "同種子 RMSE 相同（差<1e-8）的比例": 1.0
+  },
+  {
+   "model": "QLSTM",
+   "batch": 16,
+   "PennyLane 秒": 197.3924342500104,
+   "PennyLane 加速": 2.3635832921407642,
+   "fastsim CPU 秒": 6.803666349995183,
+   "fastsim CPU 加速": 11.591049466498333,
+   "fastsim GPU 秒": 13.364074799988884,
+   "fastsim GPU 加速": 15.278871203321106,
+   "fastsim CPU 比 PennyLane 快": 29.01265642606801,
+   "fastsim GPU 比 PennyLane 快": 14.770377837916216,
+   "PennyLane RMSE": "0.00416 ± 0.00026",
+   "PennyLane DA": "59.64 ± 1.12",
+   "fastsim CPU RMSE": "0.00416 ± 0.00026",
+   "fastsim CPU DA": "59.64 ± 1.12",
+   "同種子 RMSE 最大差": 3.469446951953614e-18,
+   "同種子 RMSE 相同（差<1e-8）的比例": 1.0
+  },
+  {
+   "model": "QLSTM",
+   "batch": 32,
+   "PennyLane 秒": 187.9692327500088,
+   "PennyLane 加速": 2.5114974067428117,
+   "fastsim CPU 秒": 4.378570600005332,
+   "fastsim CPU 加速": 18.161223398577288,
+   "fastsim GPU 秒": 6.860209700011183,
+   "fastsim GPU 加速": 29.640889796824034,
+   "fastsim CPU 比 PennyLane 快": 42.929359812030874,
+   "fastsim GPU 比 PennyLane 快": 27.399925216528352,
+   "PennyLane RMSE": "0.00418 ± 0.00026",
+   "PennyLane DA": "58.47 ± 1.33",
+   "fastsim CPU RMSE": "0.00418 ± 0.00026",
+   "fastsim CPU DA": "58.47 ± 1.33",
+   "同種子 RMSE 最大差": 2.6020852139652106e-18,
+   "同種子 RMSE 相同（差<1e-8）的比例": 1.0
+  },
+  {
+   "model": "QLSTM",
+   "batch": 64,
+   "PennyLane 秒": 189.52427565000835,
+   "PennyLane 加速": 2.491162611640385,
+   "fastsim CPU 秒": 3.1991020999848843,
+   "fastsim CPU 加速": 25.27197762844073,
+   "fastsim GPU 秒": 3.338315100001637,
+   "fastsim GPU 加速": 63.50799216045402,
+   "fastsim CPU 比 PennyLane 快": 59.242959345031174,
+   "fastsim GPU 比 PennyLane 快": 56.77243458830936,
+   "PennyLane RMSE": "0.00440 ± 0.00028",
+   "PennyLane DA": "57.22 ± 1.82",
+   "fastsim CPU RMSE": "0.00440 ± 0.00028",
+   "fastsim CPU DA": "57.22 ± 1.82",
+   "同種子 RMSE 最大差": 2.6020852139652106e-18,
+   "同種子 RMSE 相同（差<1e-8）的比例": 1.0
+  },
+  {
+   "model": "QFWP",
+   "batch": "non-batch",
+   "PennyLane 秒": 66.616761900048,
+   "fastsim CPU 秒": 20.591342800005805,
+   "fastsim GPU 秒": 57.69181909994222,
+   "fastsim CPU 比 PennyLane 快": 3.235182986707852,
+   "fastsim GPU 比 PennyLane 快": 1.1547003186820073,
+   "PennyLane RMSE": "0.00506 ± 0.00173",
+   "PennyLane DA": "62.87 ± 7.63",
+   "fastsim CPU RMSE": "0.00568 ± 0.00144",
+   "fastsim CPU DA": "59.96 ± 6.37",
+   "同種子 RMSE 最大差": 0.0038123441354654076,
+   "同種子 RMSE 相同（差<1e-8）的比例": 0.0
+  },
+  {
+   "model": "QFWP",
+   "batch": 4,
+   "PennyLane 秒": 32.73381599999266,
+   "PennyLane 加速": 2.0351812230961777,
+   "fastsim CPU 秒": 5.378704200003995,
+   "fastsim CPU 加速": 3.634497757131318,
+   "fastsim GPU 秒": 14.208022099977825,
+   "fastsim GPU 加速": 4.060510231049842,
+   "fastsim CPU 比 PennyLane 快": 6.085818216210579,
+   "fastsim GPU 比 PennyLane 快": 2.3038967542177278,
+   "PennyLane RMSE": "0.00348 ± 0.00112",
+   "PennyLane DA": "69.34 ± 4.38",
+   "fastsim CPU RMSE": "0.00390 ± 0.00135",
+   "fastsim CPU DA": "68.39 ± 5.68",
+   "同種子 RMSE 最大差": 0.0034757307893161205,
+   "同種子 RMSE 相同（差<1e-8）的比例": 0.4
+  },
+  {
+   "model": "QFWP",
+   "batch": 8,
+   "PennyLane 秒": 27.02732474997174,
+   "PennyLane 加速": 2.45982541367811,
+   "fastsim CPU 秒": 2.7754574499849696,
+   "fastsim CPU 加速": 7.072996063697502,
+   "fastsim GPU 秒": 7.048124899971299,
+   "fastsim GPU 加速": 8.185413839669208,
+   "fastsim CPU 比 PennyLane 快": 9.737971212679952,
+   "fastsim GPU 比 PennyLane 快": 3.8346830020111873,
+   "PennyLane RMSE": "0.00317 ± 0.00027",
+   "PennyLane DA": "70.44 ± 2.05",
+   "fastsim CPU RMSE": "0.00326 ± 0.00055",
+   "fastsim CPU DA": "70.59 ± 1.78",
+   "同種子 RMSE 最大差": 0.0009470786958437698,
+   "同種子 RMSE 相同（差<1e-8）的比例": 0.8
+  },
+  {
+   "model": "QFWP",
+   "batch": 16,
+   "PennyLane 秒": 24.445691600005375,
+   "PennyLane 加速": 2.708905722484584,
+   "fastsim CPU 秒": 1.35401295000338,
+   "fastsim CPU 加速": 13.293591115417751,
+   "fastsim GPU 秒": 3.493426900007762,
+   "fastsim GPU 加速": 16.095637352502507,
+   "fastsim CPU 比 PennyLane 快": 18.054252435284575,
+   "fastsim GPU 比 PennyLane 快": 6.9976250540553915,
+   "PennyLane RMSE": "0.00301 ± 0.00008",
+   "PennyLane DA": "70.98 ± 0.83",
+   "fastsim CPU RMSE": "0.00301 ± 0.00008",
+   "fastsim CPU DA": "70.98 ± 0.83",
+   "同種子 RMSE 最大差": 1.7373255611907723e-15,
+   "同種子 RMSE 相同（差<1e-8）的比例": 1.0
+  },
+  {
+   "model": "QFWP",
+   "batch": 32,
+   "PennyLane 秒": 24.326625600020634,
+   "PennyLane 加速": 2.725098108920557,
+   "fastsim CPU 秒": 0.7595307999872603,
+   "fastsim CPU 加速": 27.791709413617934,
+   "fastsim GPU 秒": 1.7603835000190884,
+   "fastsim GPU 加速": 33.09404251412867,
+   "fastsim CPU 比 PennyLane 快": 32.02849127438765,
+   "fastsim GPU 比 PennyLane 快": 13.818935248914144,
+   "PennyLane RMSE": "0.00313 ± 0.00025",
+   "PennyLane DA": "69.50 ± 2.27",
+   "fastsim CPU RMSE": "0.00313 ± 0.00025",
+   "fastsim CPU DA": "69.50 ± 2.27",
+   "同種子 RMSE 最大差": 3.903127820947816e-17,
+   "同種子 RMSE 相同（差<1e-8）的比例": 1.0
+  },
+  {
+   "model": "QFWP",
+   "batch": 64,
+   "PennyLane 秒": 24.13562114999513,
+   "PennyLane 加速": 2.768055056460805,
+   "fastsim CPU 秒": 0.3949078000150621,
+   "fastsim CPU 加速": 52.39131533159,
+   "fastsim GPU 秒": 0.875379899982363,
+   "fastsim GPU 加速": 64.35368129265915,
+   "fastsim CPU 比 PennyLane 快": 61.11710416728811,
+   "fastsim GPU 比 PennyLane 快": 27.571596229798526,
+   "PennyLane RMSE": "0.00371 ± 0.00103",
+   "PennyLane DA": "66.20 ± 4.07",
+   "fastsim CPU RMSE": "0.00371 ± 0.00103",
+   "fastsim CPU DA": "66.20 ± 4.07",
+   "同種子 RMSE 最大差": 2.7755575615628914e-17,
+   "同種子 RMSE 相同（差<1e-8）的比例": 1.0
+  }
+ ],
+ "check": {
+  "QLSTM": {
+   "n_params_pl": 32,
+   "n_params_fastsim": 32,
+   "max_abs_diff_init": 0.0,
+   "max_abs_diff_output": 8.326672684688674e-17,
+   "max_abs_diff_grad": 4.440892098500626e-16,
+   "ok": true
+  },
+  "QFWP": {
+   "n_params_pl": 33,
+   "n_params_fastsim": 33,
+   "max_abs_diff_init": 0.0,
+   "max_abs_diff_output": 1.1102230246251565e-16,
+   "max_abs_diff_grad": 8.881784197001252e-16,
+   "ok": true
+  },
+  "QLSTM2": {
+   "n_params_pl": 38,
+   "n_params_fastsim": 38,
+   "max_abs_diff_init": 0.0,
+   "max_abs_diff_output": 1.6653345369377348e-16,
+   "max_abs_diff_grad": 1.7763568394002505e-15,
+   "ok": true
+  },
+  "QA3C": {
+   "n_params_pl": 244,
+   "n_params_fastsim": 244,
+   "max_abs_diff_init": 0.0,
+   "max_abs_diff_output": 3.3306690738754696e-16,
+   "max_abs_diff_grad": 7.105427357601002e-15,
+   "ok": true
+  },
+  "dead_parameters": {
+   "QLSTM": {
+    "n_params": 32,
+    "n_zero_grad": 16,
+    "zero_grad_params": [
+     "w.0[3]",
+     "w.0[4]",
+     "w.0[5]",
+     "w.0[6]",
+     "w.1[3]",
+     "w.1[4]",
+     "w.1[5]",
+     "w.1[6]",
+     "w.2[3]",
+     "w.2[4]",
+     "w.2[5]",
+     "w.2[6]",
+     "w.3[3]",
+     "w.3[4]",
+     "w.3[5]",
+     "w.3[6]"
+    ]
+   },
+   "QFWP": {
+    "n_params": 33,
+    "n_zero_grad": 8,
+    "zero_grad_params": [
+     "qub.weight[3]",
+     "qub.weight[4]",
+     "qub.weight[5]",
+     "qub.weight[6]",
+     "qub.weight[7]",
+     "qub.weight[8]",
+     "qub.bias[1]",
+     "qub.bias[2]"
+    ]
+   }
+  }
+ }
+}

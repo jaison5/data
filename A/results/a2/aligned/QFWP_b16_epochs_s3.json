@@ -1,0 +1,1 @@
+{"variant": "aligned", "model": "QFWP", "batch": 16, "budget": "epochs", "seed": 3, "updates": 548, "n_train": 4374, "n_test": 1093, "rmse": 0.00532994760123406, "rw_rmse": 0.004986777821049338, "da_paper": 50.50597976080957, "da_known": 48.345588235294116, "seconds": 0.3168734312057495, "runner": "gpu_batch/cpu"}

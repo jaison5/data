@@ -1,0 +1,15 @@
+{
+ "model": "LSTM",
+ "batch": 16,
+ "seed": 0,
+ "variant": "paper",
+ "n_params": 100,
+ "rmse": 0.002930851085067002,
+ "da_paper": 70.95588235294117,
+ "da_known": 79.43067033976125,
+ "inference_s": 0.002318566999747418,
+ "train_forward_s": 0.5807838280252327,
+ "backward_s": 0.5291383389794646,
+ "full_train_s": 1.1758676119989104,
+ "steps_per_epoch": 274
+}

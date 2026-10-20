@@ -1,0 +1,17 @@
+A3C_small logret qlstm y2024 s2: 100/1600 episodes，近 100 次平均獎勵 -18.7，驗證 Sharpe 1.16（交易 3 次），0.4 分鐘
+A3C_small logret qlstm y2024 s2: 200/1600 episodes，近 100 次平均獎勵 -15.2，驗證 Sharpe 1.03（交易 5 次），0.4 分鐘
+A3C_small logret qlstm y2024 s2: 300/1600 episodes，近 100 次平均獎勵 -10.6，驗證 Sharpe -0.71（交易 4 次），0.5 分鐘
+A3C_small logret qlstm y2024 s2: 400/1600 episodes，近 100 次平均獎勵 -6.3，驗證 Sharpe -1.01（交易 2 次），0.5 分鐘
+A3C_small logret qlstm y2024 s2: 500/1600 episodes，近 100 次平均獎勵 -3.3，驗證 Sharpe -0.92（交易 4 次），0.6 分鐘
+A3C_small logret qlstm y2024 s2: 600/1600 episodes，近 100 次平均獎勵 -0.6，驗證 Sharpe -0.98（交易 5 次），0.7 分鐘
+A3C_small logret qlstm y2024 s2: 700/1600 episodes，近 100 次平均獎勵 2.5，驗證 Sharpe -0.88（交易 6 次），0.7 分鐘
+A3C_small logret qlstm y2024 s2: 800/1600 episodes，近 100 次平均獎勵 3.7，驗證 Sharpe -0.76（交易 6 次），0.8 分鐘
+A3C_small logret qlstm y2024 s2: 900/1600 episodes，近 100 次平均獎勵 4.1，驗證 Sharpe -0.80（交易 8 次），0.8 分鐘
+A3C_small logret qlstm y2024 s2: 1000/1600 episodes，近 100 次平均獎勵 5.9，驗證 Sharpe -0.80（交易 9 次），0.9 分鐘
+A3C_small logret qlstm y2024 s2: 1100/1600 episodes，近 100 次平均獎勵 6.3，驗證 Sharpe -0.80（交易 9 次），0.9 分鐘
+A3C_small logret qlstm y2024 s2: 1200/1600 episodes，近 100 次平均獎勵 7.1，驗證 Sharpe -0.64（交易 13 次），1.0 分鐘
+A3C_small logret qlstm y2024 s2: 1300/1600 episodes，近 100 次平均獎勵 7.3，驗證 Sharpe -0.65（交易 12 次），1.0 分鐘
+A3C_small logret qlstm y2024 s2: 1400/1600 episodes，近 100 次平均獎勵 8.1，驗證 Sharpe -0.80（交易 15 次），1.1 分鐘
+A3C_small logret qlstm y2024 s2: 1500/1600 episodes，近 100 次平均獎勵 9.1，驗證 Sharpe -0.71（交易 15 次），1.2 分鐘
+A3C_small logret qlstm y2024 s2: 1600/1600 episodes，近 100 次平均獎勵 9.9，驗證 Sharpe -0.78（交易 17 次），1.2 分鐘
+完成 A3C_small_logret_qlstm_y2024_s2.json：測試年報酬 0.21%（成本 0.05%），Sharpe 0.82，交易 3 次，持倉 10%，1.2 分鐘

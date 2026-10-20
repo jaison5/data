@@ -1,0 +1,11 @@
+QLSTM fast_gpu    B=  1  fwd      7.04 ms  bwd     17.05 ms  每筆   24.093 ms  (50 次)
+QLSTM fast_gpu    B=  4  fwd      6.94 ms  bwd     16.93 ms  每筆    5.969 ms  (50 次)
+QLSTM fast_gpu    B= 16  fwd      6.82 ms  bwd     16.71 ms  每筆    1.471 ms  (50 次)
+QLSTM fast_gpu    B= 64  fwd      6.90 ms  bwd     16.69 ms  每筆    0.369 ms  (50 次)
+QLSTM fast_gpu    B=256  fwd      6.83 ms  bwd     16.78 ms  每筆    0.092 ms  (50 次)
+QFWP  fast_gpu    B=  1  fwd      3.61 ms  bwd      2.59 ms  每筆    6.194 ms  (50 次)
+QFWP  fast_gpu    B=  4  fwd      3.65 ms  bwd      2.55 ms  每筆    1.549 ms  (50 次)
+QFWP  fast_gpu    B= 16  fwd      3.61 ms  bwd      2.58 ms  每筆    0.387 ms  (50 次)
+QFWP  fast_gpu    B= 64  fwd      3.64 ms  bwd      2.53 ms  每筆    0.097 ms  (50 次)
+QFWP  fast_gpu    B=256  fwd      3.63 ms  bwd      2.55 ms  每筆    0.024 ms  (50 次)
+gpu exit 0

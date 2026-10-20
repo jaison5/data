@@ -1,0 +1,17 @@
+QA3C paper qlstm y2022 s0: 100/1600 episodes，近 100 次平均獎勵 15.2，驗證 Sharpe -1.70（交易 71 次），0.7 分鐘
+QA3C paper qlstm y2022 s0: 200/1600 episodes，近 100 次平均獎勵 266.2，驗證 Sharpe -2.18（交易 58 次），1.5 分鐘
+QA3C paper qlstm y2022 s0: 300/1600 episodes，近 100 次平均獎勵 537.8，驗證 Sharpe -1.27（交易 45 次），2.1 分鐘
+QA3C paper qlstm y2022 s0: 400/1600 episodes，近 100 次平均獎勵 720.4，驗證 Sharpe -0.74（交易 39 次），2.8 分鐘
+QA3C paper qlstm y2022 s0: 500/1600 episodes，近 100 次平均獎勵 1029.0，驗證 Sharpe -1.64（交易 52 次），3.4 分鐘
+QA3C paper qlstm y2022 s0: 600/1600 episodes，近 100 次平均獎勵 1191.0，驗證 Sharpe -1.57（交易 65 次），4.1 分鐘
+QA3C paper qlstm y2022 s0: 700/1600 episodes，近 100 次平均獎勵 1473.9，驗證 Sharpe -3.78（交易 84 次），4.8 分鐘
+QA3C paper qlstm y2022 s0: 800/1600 episodes，近 100 次平均獎勵 1645.5，驗證 Sharpe -2.23（交易 99 次），5.6 分鐘
+QA3C paper qlstm y2022 s0: 900/1600 episodes，近 100 次平均獎勵 1800.7，驗證 Sharpe -2.28（交易 104 次），6.3 分鐘
+QA3C paper qlstm y2022 s0: 1000/1600 episodes，近 100 次平均獎勵 1882.6，驗證 Sharpe -4.14（交易 117 次），7.0 分鐘
+QA3C paper qlstm y2022 s0: 1100/1600 episodes，近 100 次平均獎勵 2057.5，驗證 Sharpe -3.71（交易 124 次），7.8 分鐘
+QA3C paper qlstm y2022 s0: 1200/1600 episodes，近 100 次平均獎勵 2125.3，驗證 Sharpe -3.62（交易 126 次），8.5 分鐘
+QA3C paper qlstm y2022 s0: 1300/1600 episodes，近 100 次平均獎勵 2287.1，驗證 Sharpe -3.63（交易 130 次），9.3 分鐘
+QA3C paper qlstm y2022 s0: 1400/1600 episodes，近 100 次平均獎勵 2461.2，驗證 Sharpe -3.63（交易 130 次），10.0 分鐘
+QA3C paper qlstm y2022 s0: 1500/1600 episodes，近 100 次平均獎勵 2568.4，驗證 Sharpe -3.63（交易 130 次），10.9 分鐘
+QA3C paper qlstm y2022 s0: 1600/1600 episodes，近 100 次平均獎勵 2637.2，驗證 Sharpe -3.63（交易 130 次），11.7 分鐘
+完成 QA3C_paper_qlstm_y2022_s0.json：測試年報酬 -0.26%（成本 0.05%），Sharpe -1.65，交易 16 次，持倉 6%，11.7 分鐘

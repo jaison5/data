@@ -1,0 +1,505 @@
+NDX 2025 QLSTM  5 models, 333 s [cpu]
+NDX 2024 QLSTM  5 models, 363 s [cpu]
+NDX 2006 QLSTM 15 models, 512 s [cpu]
+NDX 2007 QLSTM 15 models, 531 s [cpu]
+NDX 2008 QLSTM 15 models, 552 s [cpu]
+NDX 2009 QLSTM 15 models, 564 s [cpu]
+NDX 2004 QLSTM 15 models, 592 s [cpu]
+NDX 2005 QLSTM 15 models, 594 s [cpu]
+NDX 2010 QLSTM 15 models, 595 s [cpu]
+NDX 2006 QLSTM  5 models, 147 s [cpu]
+NDX 2014 QLSTM 15 models, 679 s [cpu]
+NDX 2013 QLSTM 15 models, 680 s [cpu]
+NDX 2004 QLSTM  5 models, 105 s [cpu]
+NDX 2015 QLSTM 15 models, 721 s [cpu]
+NDX 2011 QLSTM 15 models, 724 s [cpu]
+NDX 2002 QLSTM 15 models, 395 s [cpu]
+NDX 2007 QLSTM  5 models, 198 s [cpu]
+NDX 2005 QLSTM  5 models, 143 s [cpu]
+NDX 2001 QLSTM 15 models, 377 s [cpu]
+NDX 2012 QLSTM 15 models, 742 s [cpu]
+NDX 2008 QLSTM  5 models, 209 s [cpu]
+NDX 2017 QLSTM 15 models, 771 s [cpu]
+NDX 2009 QLSTM  5 models, 213 s [cpu]
+cap1 2026 FWPC   15 models, 4 s
+cap1 2026 FWPC    5 models, 2 s
+cap1 2025 FWPC   15 models, 9 s
+cap1 2025 FWPC    5 models, 4 s
+cap1 2024 FWPC   15 models, 9 s
+NDX 2018 QLSTM 15 models, 809 s [cpu]
+cap1 2024 FWPC    5 models, 2 s
+NDX 2010 QLSTM  5 models, 216 s [cpu]
+NDX 2023 QLSTM 15 models, 816 s [cpu]
+cap1 2022 FWPC   15 models, 4 s
+cap1 2023 FWPC   15 models, 9 s
+NDX 2019 QLSTM 15 models, 820 s [cpu]
+cap1 2022 FWPC    5 models, 4 s
+cap1 2021 FWPC   15 models, 2 s
+cap1 2021 FWPC    5 models, 2 s
+cap1 2023 FWPC    5 models, 4 s
+cap1 2020 FWPC   15 models, 8 s
+NDX 2014 QLSTM  5 models, 153 s [cpu]
+cap1 2019 FWPC   15 models, 10 s
+cap1 2018 FWPC   15 models, 3 s
+cap1 2020 FWPC    5 models, 5 s
+cap1 2019 FWPC    5 models, 4 s
+NDX 2001 QLSTM  5 models, 100 s [cpu]
+NDX 2016 QLSTM 15 models, 841 s [cpu]
+cap1 2018 FWPC    5 models, 4 s
+NDX 2020 QLSTM 15 models, 843 s [cpu]
+cap1 2017 FWPC   15 models, 6 s
+cap1 2016 FWPC   15 models, 8 s
+cap1 2017 FWPC    5 models, 3 s
+cap1 2015 FWPC   15 models, 7 s
+cap1 2014 FWPC   15 models, 7 s
+NDX 2002 QLSTM  5 models, 122 s [cpu]
+cap1 2016 FWPC    5 models, 4 s
+NDX 2021 QLSTM 15 models, 851 s [cpu]
+cap1 2014 FWPC    5 models, 3 s
+cap1 2013 FWPC   15 models, 5 s
+cap1 2015 FWPC    5 models, 4 s
+cap1 2012 FWPC   15 models, 5 s
+cap1 2011 FWPC   15 models, 6 s
+cap1 2010 FWPC   15 models, 5 s
+cap1 2013 FWPC    5 models, 4 s
+cap1 2012 FWPC    5 models, 2 s
+cap1 2009 FWPC   15 models, 5 s
+cap1 2010 FWPC    5 models, 2 s
+cap1 2011 FWPC    5 models, 4 s
+cap1 2009 FWPC    5 models, 2 s
+cap1 2005 FWPC   15 models, 3 s
+cap1 2006 FWPC   15 models, 5 s
+cap1 2008 FWPC   15 models, 6 s
+cap1 2007 FWPC   15 models, 6 s
+cap1 2005 FWPC    5 models, 1 s
+cap1 2008 FWPC    5 models, 1 s
+cap1 2004 FWPC   15 models, 5 s
+cap1 2006 FWPC    5 models, 3 s
+cap1 2007 FWPC    5 models, 4 s
+cap1 2004 FWPC    5 models, 3 s
+cap1 2003 FWPC   15 models, 5 s
+cap1 2002 FWPC   15 models, 5 s
+cap1 1999 FWPC   15 models, 1 s
+NDX 2022 QLSTM 15 models, 872 s [cpu]
+cap1 2001 FWPC   15 models, 4 s
+cap1 1999 FWPC    5 models, 1 s
+cap1 2000 FWPC   15 models, 4 s
+cap1 2003 FWPC    5 models, 2 s
+cap1 2002 FWPC    5 models, 3 s
+cap1 2001 FWPC    5 models, 3 s
+cap1 1997 FWPC   15 models, 1 s
+cap1 1998 FWPC   15 models, 3 s
+cap1 2000 FWPC    5 models, 3 s
+cap1 1997 FWPC    5 models, 2 s
+cap1 1996 FWPC   15 models, 3 s
+cap1 1995 FWPC   15 models, 3 s
+cap1 1996 FWPC    5 models, 0 s
+NDX 2012 QLSTM  5 models, 135 s [cpu]
+cap1 1995 FWPC    5 models, 1 s
+cap1 1998 FWPC    5 models, 2 s
+cap1 2026 LSTM1  15 models, 2 s
+cap1 2026 LSTM3  15 models, 6 s
+cap1 2026 LSTM1   5 models, 3 s
+cap1 2026 LSTM3   5 models, 2 s
+NDX 2011 QLSTM  5 models, 170 s [cpu]
+cap1 2025 LSTM3  15 models, 10 s
+cap1 2025 LSTM1  15 models, 9 s
+cap1 2025 LSTM3   5 models, 4 s
+cap1 2025 LSTM1   5 models, 4 s
+NDX 2026 FWPC  15 models, 26 s [cpu]
+NDX 2025 FWPC  15 models, 25 s [cpu]
+NDX 1995 QLSTM 15 models, 145 s [cpu]
+NDX 1997 QLSTM 15 models, 179 s [cpu]
+NDX 2013 QLSTM  5 models, 230 s [cpu]
+NDX 1996 QLSTM 15 models, 174 s [cpu]
+cap1 2024 LSTM3  15 models, 12 s
+NDX 2026 QFWP  15 models, 38 s [cpu]
+NDX 2024 FWPC  15 models, 16 s [cpu]
+cap1 2024 LSTM1  15 models, 4 s
+NDX 2025 FWPC   5 models, 12 s [cpu]
+cap1 2024 LSTM3   5 models, 5 s
+NDX 1999 QLSTM 15 models, 259 s [cpu]
+NDX 2026 FWPC   5 models, 15 s [cpu]
+cap1 2024 LSTM1   5 models, 3 s
+NDX 2025 QFWP  15 models, 43 s [cpu]
+NDX 1998 QLSTM 15 models, 224 s [cpu]
+cap1 2023 LSTM1  15 models, 5 s
+cap1 2023 LSTM3  15 models, 9 s
+cap1 2023 LSTM1   5 models, 3 s
+cap1 2023 LSTM3   5 models, 3 s
+NDX 2024 FWPC   5 models, 16 s [cpu]
+NDX 2023 FWPC  15 models, 14 s [cpu]
+NDX 2024 QFWP  15 models, 38 s [cpu]
+cap1 2022 LSTM3  15 models, 3 s
+cap1 2022 LSTM3   5 models, 1 s
+NDX 1995 QLSTM  5 models, 29 s [cpu]
+cap1 2022 LSTM1  15 models, 2 s
+cap1 2022 LSTM1   5 models, 3 s
+NDX 2026 QFWP   5 models, 28 s [cpu]
+NDX 2023 FWPC   5 models, 10 s [cpu]
+NDX 2015 QLSTM  5 models, 220 s [cpu]
+NDX 2022 FWPC  15 models, 14 s [cpu]
+cap1 2021 LSTM3  15 models, 2 s
+cap1 2021 LSTM3   5 models, 2 s
+NDX 2018 QLSTM  5 models, 135 s [cpu]
+cap1 2021 LSTM1  15 models, 5 s
+NDX 2025 QFWP   5 models, 26 s [cpu]
+NDX 1997 QLSTM  5 models, 41 s [cpu]
+NDX 2023 QFWP  15 models, 33 s [cpu]
+cap1 2021 LSTM1   5 models, 3 s
+cap1 2020 LSTM3  15 models, 4 s
+cap1 2020 LSTM1  15 models, 3 s
+cap1 2020 LSTM3   5 models, 2 s
+cap1 2020 LSTM1   5 models, 2 s
+NDX 2021 FWPC  15 models, 15 s [cpu]
+NDX 2022 FWPC   5 models, 12 s [cpu]
+cap1 2019 LSTM1  15 models, 5 s
+NDX 2022 QFWP  15 models, 31 s [cpu]
+NDX 2020 FWPC  15 models, 12 s [cpu]
+cap1 2019 LSTM1   5 models, 1 s
+cap1 2019 LSTM3  15 models, 7 s
+NDX 2024 QFWP   5 models, 29 s [cpu]
+NDX 2019 FWPC  15 models, 12 s [cpu]
+cap1 2019 LSTM3   5 models, 2 s
+NDX 1996 QLSTM  5 models, 52 s [cpu]
+cap1 2018 LSTM3  15 models, 3 s
+NDX 2021 QFWP  15 models, 30 s [cpu]
+cap1 2018 LSTM1  15 models, 5 s
+cap1 2018 LSTM3   5 models, 2 s
+NDX 2021 FWPC   5 models, 13 s [cpu]
+cap1 2018 LSTM1   5 models, 2 s
+NDX 2017 QLSTM  5 models, 198 s [cpu]
+NDX 2018 FWPC  15 models, 11 s [cpu]
+NDX 2020 FWPC   5 models, 12 s [cpu]
+cap1 2017 LSTM1  15 models, 2 s
+NDX 2020 QFWP  15 models, 29 s [cpu]
+cap1 2017 LSTM1   5 models, 1 s
+cap1 2017 LSTM3  15 models, 3 s
+NDX 2019 FWPC   5 models, 11 s [cpu]
+cap1 2017 LSTM3   5 models, 2 s
+NDX 2023 QFWP   5 models, 27 s [cpu]
+cap1 2016 LSTM1  15 models, 4 s
+cap1 2016 LSTM3  15 models, 6 s
+NDX 2019 QFWP  15 models, 28 s [cpu]
+cap1 2016 LSTM1   5 models, 2 s
+cap1 2016 LSTM3   5 models, 2 s
+NDX 2017 FWPC  15 models, 12 s [cpu]
+NDX 2018 QFWP  15 models, 24 s [cpu]
+NDX 2018 FWPC   5 models, 11 s [cpu]
+NDX 2016 FWPC  15 models, 11 s [cpu]
+cap1 2015 LSTM1  15 models, 2 s
+cap1 2015 LSTM1   5 models, 1 s
+cap1 2015 LSTM3  15 models, 4 s
+NDX 2021 QFWP   5 models, 18 s [cpu]
+NDX 1998 QLSTM  5 models, 61 s [cpu]
+NDX 2022 QFWP   5 models, 26 s [cpu]
+NDX 1999 QLSTM  5 models, 67 s [cpu]
+cap1 2015 LSTM3   5 models, 2 s
+NDX 2015 FWPC  15 models, 10 s [cpu]
+cap1 2013 LSTM3  15 models, 2 s
+cap1 2014 LSTM1  15 models, 4 s
+cap1 2014 LSTM3  15 models, 5 s
+cap1 2013 LSTM3   5 models, 1 s
+cap1 2014 LSTM1   5 models, 2 s
+NDX 2016 FWPC   5 models, 9 s [cpu]
+cap1 2014 LSTM3   5 models, 1 s
+cap1 2013 LSTM1  15 models, 2 s
+NDX 2017 FWPC   5 models, 11 s [cpu]
+cap1 2013 LSTM1   5 models, 1 s
+NDX 2017 QFWP  15 models, 29 s [cpu]
+NDX 2014 FWPC  15 models, 10 s [cpu]
+NDX 2016 QFWP  15 models, 24 s [cpu]
+NDX 2013 FWPC  15 models, 9 s [cpu]
+cap1 2012 LSTM1  15 models, 4 s
+NDX 2020 QFWP   5 models, 24 s [cpu]
+cap1 2012 LSTM3  15 models, 5 s
+NDX 2019 QFWP   5 models, 18 s [cpu]
+cap1 2012 LSTM1   5 models, 1 s
+NDX 2015 FWPC   5 models, 9 s [cpu]
+cap1 2012 LSTM3   5 models, 3 s
+NDX 2012 FWPC  15 models, 8 s [cpu]
+cap1 2011 LSTM1  15 models, 4 s
+cap1 2011 LSTM3  15 models, 4 s
+NDX 2018 QFWP   5 models, 20 s [cpu]
+NDX 2014 FWPC   5 models, 8 s [cpu]
+NDX 2015 QFWP  15 models, 27 s [cpu]
+cap1 2011 LSTM1   5 models, 2 s
+cap1 2011 LSTM3   5 models, 2 s
+NDX 2014 QFWP  15 models, 23 s [cpu]
+cap1 2010 LSTM3  15 models, 3 s
+NDX 2012 FWPC   5 models, 5 s [cpu]
+NDX 2013 FWPC   5 models, 9 s [cpu]
+cap1 2010 LSTM1  15 models, 3 s
+NDX 2011 FWPC  15 models, 9 s [cpu]
+cap1 2010 LSTM3   5 models, 1 s
+cap1 2010 LSTM1   5 models, 1 s
+NDX 2010 FWPC  15 models, 8 s [cpu]
+NDX 2013 QFWP  15 models, 22 s [cpu]
+cap1 2009 LSTM1  15 models, 3 s
+cap1 2009 LSTM3  15 models, 5 s
+cap1 2009 LSTM1   5 models, 2 s
+NDX 2009 FWPC  15 models, 8 s [cpu]
+NDX 2011 FWPC   5 models, 6 s [cpu]
+cap1 2009 LSTM3   5 models, 2 s
+NDX 2010 FWPC   5 models, 6 s [cpu]
+NDX 2011 QFWP  15 models, 21 s [cpu]
+NDX 2016 QFWP   5 models, 19 s [cpu]
+NDX 2008 FWPC  15 models, 8 s [cpu]
+cap1 2008 LSTM3  15 models, 4 s
+cap1 2008 LSTM1  15 models, 3 s
+NDX 2012 QFWP  15 models, 24 s [cpu]
+cap1 2008 LSTM1   5 models, 1 s
+cap1 2008 LSTM3   5 models, 1 s
+NDX 2010 QFWP  15 models, 20 s [cpu]
+cap1 2007 LSTM3  15 models, 4 s
+NDX 2017 QFWP   5 models, 24 s [cpu]
+NDX 2009 FWPC   5 models, 7 s [cpu]
+cap1 2007 LSTM1  15 models, 3 s
+NDX 2014 QFWP   5 models, 15 s [cpu]
+NDX 2008 FWPC   5 models, 5 s [cpu]
+cap1 2007 LSTM3   5 models, 1 s
+cap1 2006 LSTM3  15 models, 2 s
+cap1 2006 LSTM1  15 models, 1 s
+cap1 2007 LSTM1   5 models, 1 s
+NDX 2007 FWPC  15 models, 7 s [cpu]
+NDX 2013 QFWP   5 models, 13 s [cpu]
+cap1 2005 LSTM1  15 models, 1 s
+cap1 2006 LSTM3   5 models, 1 s
+cap1 2006 LSTM1   5 models, 1 s
+NDX 2015 QFWP   5 models, 20 s [cpu]
+cap1 2005 LSTM1   5 models, 2 s
+NDX 2008 QFWP  15 models, 17 s [cpu]
+cap1 2005 LSTM3  15 models, 3 s
+cap1 2005 LSTM3   5 models, 1 s
+NDX 2009 QFWP  15 models, 21 s [cpu]
+cap1 2004 LSTM1  15 models, 2 s
+NDX 2016 QLSTM  5 models, 183 s [cpu]
+NDX 2006 FWPC  15 models, 8 s [cpu]
+NDX 2005 FWPC  15 models, 6 s [cpu]
+cap1 2004 LSTM1   5 models, 1 s
+cap1 2004 LSTM3  15 models, 4 s
+NDX 2007 FWPC   5 models, 7 s [cpu]
+NDX 2019 QLSTM  5 models, 206 s [cpu]
+NDX 2004 FWPC  15 models, 6 s [cpu]
+NDX 2007 QFWP  15 models, 16 s [cpu]
+cap1 2004 LSTM3   5 models, 2 s
+cap1 2003 LSTM1  15 models, 2 s
+NDX 2023 QLSTM  5 models, 211 s [cpu]
+cap1 2003 LSTM3  15 models, 3 s
+NDX 2012 QFWP   5 models, 14 s [cpu]
+cap1 2003 LSTM1   5 models, 1 s
+NDX 2011 QFWP   5 models, 17 s [cpu]
+cap1 2003 LSTM3   5 models, 2 s
+NDX 2005 FWPC   5 models, 5 s [cpu]
+NDX 2003 FWPC  15 models, 6 s [cpu]
+cap1 2002 LSTM1  15 models, 2 s
+NDX 2006 QFWP  15 models, 16 s [cpu]
+NDX 2006 FWPC   5 models, 7 s [cpu]
+NDX 2004 FWPC   5 models, 6 s [cpu]
+cap1 2002 LSTM1   5 models, 1 s
+cap1 2002 LSTM3  15 models, 3 s
+cap1 2001 LSTM1  15 models, 2 s
+NDX 2010 QFWP   5 models, 16 s [cpu]
+cap1 2001 LSTM3  15 models, 3 s
+cap1 2001 LSTM1   5 models, 1 s
+NDX 2002 FWPC  15 models, 6 s [cpu]
+cap1 2002 LSTM3   5 models, 2 s
+NDX 2005 QFWP  15 models, 15 s [cpu]
+NDX 2001 FWPC  15 models, 5 s [cpu]
+NDX 2004 QFWP  15 models, 15 s [cpu]
+cap1 2000 LSTM1  15 models, 2 s
+cap1 2000 LSTM3  15 models, 3 s
+cap1 2001 LSTM3   5 models, 2 s
+cap1 2000 LSTM1   5 models, 1 s
+NDX 2008 QFWP   5 models, 14 s [cpu]
+cap1 1999 LSTM3  15 models, 1 s
+cap1 1999 LSTM1  15 models, 0 s
+cap1 1999 LSTM3   5 models, 0 s
+NDX 2003 FWPC   5 models, 6 s [cpu]
+cap1 2000 LSTM3   5 models, 2 s
+cap1 1999 LSTM1   5 models, 0 s
+NDX 2000 FWPC  15 models, 5 s [cpu]
+NDX 2003 QFWP  15 models, 14 s [cpu]
+NDX 2002 FWPC   5 models, 4 s [cpu]
+cap1 1998 LSTM1  15 models, 2 s
+NDX 1999 FWPC  15 models, 5 s [cpu]
+NDX 2002 QFWP  15 models, 13 s [cpu]
+cap1 1998 LSTM1   5 models, 1 s
+cap1 1998 LSTM3  15 models, 2 s
+NDX 2001 FWPC   5 models, 5 s [cpu]
+NDX 2009 QFWP   5 models, 17 s [cpu]
+NDX 1998 FWPC  15 models, 4 s [cpu]
+cap1 1998 LSTM3   5 models, 1 s
+cap1 1997 LSTM1  15 models, 1 s
+NDX 1997 FWPC  15 models, 4 s [cpu]
+NDX 2000 FWPC   5 models, 4 s [cpu]
+cap1 1997 LSTM1   5 models, 0 s
+cap1 1997 LSTM3  15 models, 2 s
+NDX 2001 QFWP  15 models, 13 s [cpu]
+cap1 1997 LSTM3   5 models, 1 s
+NDX 2007 QFWP   5 models, 15 s [cpu]
+cap1 1996 LSTM1  15 models, 1 s
+cap1 1996 LSTM1   5 models, 0 s
+cap1 1996 LSTM3  15 models, 2 s
+NDX 1999 FWPC   5 models, 4 s [cpu]
+NDX 2000 QFWP  15 models, 11 s [cpu]
+cap1 1996 LSTM3   5 models, 0 s
+cap1 1995 LSTM1  15 models, 1 s
+NDX 1996 FWPC  15 models, 3 s [cpu]
+NDX 1999 QFWP  15 models, 11 s [cpu]
+NDX 1997 FWPC   5 models, 3 s [cpu]
+cap1 1995 LSTM3  15 models, 2 s
+NDX 1998 FWPC   5 models, 4 s [cpu]
+cap1 1995 LSTM1   5 models, 1 s
+cap1 1995 LSTM3   5 models, 1 s
+NDX 1995 FWPC  15 models, 3 s [cpu]
+NDX 2006 QFWP   5 models, 15 s [cpu]
+NDX 1997 QFWP  15 models, 9 s [cpu]
+NDX 1998 QFWP  15 models, 10 s [cpu]
+NDX 2003 QFWP   5 models, 9 s [cpu]
+NDX 2004 QFWP   5 models, 12 s [cpu]
+NDX 1996 FWPC   5 models, 3 s [cpu]
+NDX 1996 QFWP  15 models, 7 s [cpu]
+NDX 2020 QLSTM  5 models, 204 s [cpu]
+NDX 2005 QFWP   5 models, 14 s [cpu]
+NDX 1995 FWPC   5 models, 3 s [cpu]
+NDX 2026 LSTM3 15 models, 6 s [cpu]
+NDX 1995 QFWP  15 models, 7 s [cpu]
+NDX 2002 QFWP   5 models, 11 s [cpu]
+NDX 2001 QFWP   5 models, 10 s [cpu]
+NDX 2000 QFWP   5 models, 8 s [cpu]
+NDX 1996 QFWP   5 models, 4 s [cpu]
+NDX 1998 QFWP   5 models, 7 s [cpu]
+NDX 1997 QFWP   5 models, 7 s [cpu]
+NDX 1999 QFWP   5 models, 9 s [cpu]
+NDX 1995 QFWP   5 models, 5 s [cpu]
+NDX 2026 LSTM1 15 models, 10 s [cpu]
+NDX 2021 LSTM3 15 models, 7 s [cpu]
+NDX 2023 LSTM1 15 models, 9 s [cpu]
+NDX 2025 LSTM1 15 models, 11 s [cpu]
+NDX 2024 LSTM1 15 models, 10 s [cpu]
+NDX 2021 LSTM1 15 models, 9 s [cpu]
+NDX 2026 LSTM3  5 models, 8 s [cpu]
+NDX 2022 LSTM1 15 models, 10 s [cpu]
+NDX 2025 LSTM3 15 models, 13 s [cpu]
+NDX 2024 LSTM3 15 models, 13 s [cpu]
+NDX 2022 LSTM3 15 models, 11 s [cpu]
+NDX 2023 LSTM3 15 models, 12 s [cpu]
+NDX 2021 QLSTM  5 models, 206 s [cpu]
+NDX 2025 LSTM1  5 models, 4 s [cpu]
+NDX 2019 LSTM1 15 models, 8 s [cpu]
+NDX 2018 LSTM3 15 models, 8 s [cpu]
+NDX 2020 LSTM1 15 models, 9 s [cpu]
+NDX 2026 LSTM1  5 models, 6 s [cpu]
+NDX 2023 LSTM1  5 models, 6 s [cpu]
+NDX 2019 LSTM3 15 models, 10 s [cpu]
+NDX 2020 LSTM3 15 models, 11 s [cpu]
+NDX 2018 LSTM1 15 models, 9 s [cpu]
+NDX 2024 LSTM1  5 models, 7 s [cpu]
+NDX 2021 LSTM1  5 models, 6 s [cpu]
+NDX 2017 LSTM1 15 models, 8 s [cpu]
+NDX 2017 LSTM3 15 models, 10 s [cpu]
+NDX 2025 LSTM3  5 models, 7 s [cpu]
+NDX 2021 LSTM3  5 models, 10 s [cpu]
+NDX 2024 LSTM3  5 models, 8 s [cpu]
+NDX 2022 LSTM1  5 models, 8 s [cpu]
+NDX 2022 LSTM3  5 models, 8 s [cpu]
+NDX 2019 LSTM1  5 models, 6 s [cpu]
+NDX 2016 LSTM3 15 models, 9 s [cpu]
+NDX 2016 LSTM1 15 models, 8 s [cpu]
+NDX 2015 LSTM1 15 models, 7 s [cpu]
+NDX 2019 LSTM3  5 models, 7 s [cpu]
+NDX 2015 LSTM3 15 models, 10 s [cpu]
+NDX 2023 LSTM3  5 models, 11 s [cpu]
+NDX 2020 LSTM1  5 models, 8 s [cpu]
+NDX 2018 LSTM3  5 models, 9 s [cpu]
+NDX 2018 LSTM1  5 models, 8 s [cpu]
+NDX 2014 LSTM3 15 models, 9 s [cpu]
+NDX 2014 LSTM1 15 models, 8 s [cpu]
+NDX 2017 LSTM1  5 models, 8 s [cpu]
+NDX 2013 LSTM3 15 models, 8 s [cpu]
+NDX 2011 LSTM1 15 models, 5 s [cpu]
+NDX 2020 LSTM3  5 models, 10 s [cpu]
+NDX 2012 LSTM1 15 models, 6 s [cpu]
+NDX 2013 LSTM1 15 models, 7 s [cpu]
+NDX 2016 LSTM3  5 models, 6 s [cpu]
+NDX 2017 LSTM3  5 models, 9 s [cpu]
+NDX 2015 LSTM1  5 models, 5 s [cpu]
+NDX 2010 LSTM3 15 models, 7 s [cpu]
+NDX 2011 LSTM3 15 models, 8 s [cpu]
+NDX 2012 LSTM3 15 models, 9 s [cpu]
+NDX 2016 LSTM1  5 models, 7 s [cpu]
+NDX 2010 LSTM1 15 models, 6 s [cpu]
+NDX 2014 LSTM1  5 models, 5 s [cpu]
+NDX 2009 LSTM1 15 models, 6 s [cpu]
+NDX 2014 LSTM3  5 models, 6 s [cpu]
+NDX 2009 LSTM3 15 models, 7 s [cpu]
+NDX 2008 LSTM1 15 models, 6 s [cpu]
+NDX 2012 LSTM1  5 models, 4 s [cpu]
+NDX 2007 LSTM1 15 models, 5 s [cpu]
+NDX 2008 LSTM3 15 models, 7 s [cpu]
+NDX 2013 LSTM1  5 models, 5 s [cpu]
+NDX 2011 LSTM1  5 models, 6 s [cpu]
+NDX 2005 LSTM3 15 models, 4 s [cpu]
+NDX 2007 LSTM3 15 models, 7 s [cpu]
+NDX 2015 LSTM3  5 models, 8 s [cpu]
+NDX 2022 QLSTM  5 models, 206 s [cpu]
+NDX 2006 LSTM1 15 models, 5 s [cpu]
+NDX 2013 LSTM3  5 models, 7 s [cpu]
+NDX 2006 LSTM3 15 models, 6 s [cpu]
+NDX 2012 LSTM3  5 models, 5 s [cpu]
+NDX 2005 LSTM1 15 models, 5 s [cpu]
+NDX 2009 LSTM1  5 models, 4 s [cpu]
+NDX 2010 LSTM3  5 models, 6 s [cpu]
+NDX 2005 LSTM3  5 models, 3 s [cpu]
+NDX 2010 LSTM1  5 models, 5 s [cpu]
+NDX 2004 LSTM3 15 models, 5 s [cpu]
+NDX 2007 LSTM1  5 models, 4 s [cpu]
+NDX 2004 LSTM1 15 models, 5 s [cpu]
+NDX 2011 LSTM3  5 models, 7 s [cpu]
+NDX 2009 LSTM3  5 models, 5 s [cpu]
+NDX 2008 LSTM1  5 models, 5 s [cpu]
+NDX 2003 LSTM1 15 models, 4 s [cpu]
+NDX 2006 LSTM1  5 models, 3 s [cpu]
+NDX 2002 LSTM3 15 models, 5 s [cpu]
+NDX 2002 LSTM1 15 models, 4 s [cpu]
+NDX 2003 LSTM3 15 models, 5 s [cpu]
+NDX 2001 LSTM1 15 models, 4 s [cpu]
+NDX 2008 LSTM3  5 models, 6 s [cpu]
+NDX 2001 LSTM3 15 models, 5 s [cpu]
+NDX 1999 LSTM1 15 models, 3 s [cpu]
+NDX 1998 LSTM3 15 models, 3 s [cpu]
+NDX 2007 LSTM3  5 models, 6 s [cpu]
+NDX 2000 LSTM3 15 models, 4 s [cpu]
+NDX 1998 LSTM1 15 models, 3 s [cpu]
+NDX 2005 LSTM1  5 models, 4 s [cpu]
+NDX 2000 LSTM1 15 models, 4 s [cpu]
+NDX 1997 LSTM1 15 models, 2 s [cpu]
+NDX 1999 LSTM3 15 models, 4 s [cpu]
+NDX 2006 LSTM3  5 models, 5 s [cpu]
+NDX 1996 LSTM3 15 models, 3 s [cpu]
+NDX 1996 LSTM1 15 models, 3 s [cpu]
+NDX 1997 LSTM3 15 models, 3 s [cpu]
+NDX 2002 LSTM1  5 models, 3 s [cpu]
+NDX 2004 LSTM3  5 models, 4 s [cpu]
+NDX 2003 LSTM3  5 models, 3 s [cpu]
+NDX 1995 LSTM3 15 models, 3 s [cpu]
+NDX 2004 LSTM1  5 models, 4 s [cpu]
+NDX 1997 LSTM1  5 models, 2 s [cpu]
+NDX 1995 LSTM1 15 models, 2 s [cpu]
+NDX 2003 LSTM1  5 models, 4 s [cpu]
+NDX 2002 LSTM3  5 models, 4 s [cpu]
+NDX 2001 LSTM1  5 models, 4 s [cpu]
+NDX 1999 LSTM1  5 models, 3 s [cpu]
+NDX 1996 LSTM1  5 models, 2 s [cpu]
+NDX 1998 LSTM1  5 models, 3 s [cpu]
+NDX 1998 LSTM3  5 models, 3 s [cpu]
+NDX 1996 LSTM3  5 models, 2 s [cpu]
+NDX 2001 LSTM3  5 models, 4 s [cpu]
+NDX 2000 LSTM1  5 models, 3 s [cpu]
+NDX 1999 LSTM3  5 models, 3 s [cpu]
+NDX 1995 LSTM1  5 models, 2 s [cpu]
+NDX 1995 LSTM3  5 models, 2 s [cpu]
+NDX 1997 LSTM3  5 models, 3 s [cpu]
+NDX 2000 LSTM3  5 models, 4 s [cpu]
+D7 done

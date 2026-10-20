@@ -1,0 +1,59 @@
+           name   CAGR    Vol  ratio  Sharpe   MaxDD  val_sharpe_mean
+       D6_QLSTM 0.0860 0.0882 0.9744  0.8204 -0.1703              NaN
+        D6_FWPC 0.0704 0.0906 0.7762  0.6411 -0.2584              NaN
+       D6_LSTM3 0.0742 0.0902 0.8234  0.6842 -0.1810              NaN
+       D6_LSTM1 0.0726 0.0911 0.7963  0.6608 -0.1792              NaN
+        plainVT 0.1547 0.1725 0.8970  0.8395 -0.3256              NaN
+ reg_early_FWPC 0.0829 0.1016 0.8166  0.6975 -0.2611           1.0454
+reg_early_LSTM3 0.0911 0.1116 0.8162  0.7115 -0.2760           1.0402
+reg_early_LSTM1 0.0952 0.1182 0.8058  0.7105 -0.2883           1.0405
+    reg_wd_FWPC 0.0758 0.0959 0.7910  0.6644 -0.2309           1.1153
+   reg_wd_LSTM3 0.0893 0.0982 0.9098  0.7781 -0.1868           1.0694
+   reg_wd_LSTM1 0.0935 0.1067 0.8765  0.7601 -0.2096           1.0503
+  reg_turn_FWPC 0.0843 0.1017 0.8289  0.7092 -0.2535           1.0452
+ reg_turn_LSTM3 0.0891 0.1100 0.8100  0.7038 -0.2767           1.0427
+ reg_turn_LSTM1 0.0940 0.1149 0.8179  0.7175 -0.2750           1.0432
+ ff_std_FFLSTM1 0.0626 0.0766 0.8173  0.6484 -0.1596           1.1835
+ ff_std_FFLSTM3 0.0753 0.0932 0.8081  0.6756 -0.1844           1.1898
+    lc_K2_QLSTM 0.0776 0.1007 0.7706  0.6536 -0.2650           1.0685
+     lc_K2_FWPC 0.0799 0.1053 0.7588  0.6498 -0.2766           1.1292
+    lc_K2_LSTM3 0.0803 0.1111 0.7227  0.6248 -0.3287           1.1674
+    lc_K2_LSTM1 0.0859 0.1143 0.7517  0.6559 -0.2919           1.0811
+    lc_K4_QLSTM 0.0690 0.0963 0.7168  0.5960 -0.2414           1.0658
+     lc_K4_FWPC 0.0837 0.1067 0.7842  0.6753 -0.2789           1.1256
+    lc_K4_LSTM3 0.0720 0.1141 0.6309  0.5436 -0.3310           1.1881
+    lc_K4_LSTM1 0.0779 0.1129 0.6901  0.5970 -0.2932           1.1170
+    lc_K8_QLSTM 0.0758 0.0877 0.8641  0.7173 -0.1743           1.0677
+     lc_K8_FWPC 0.0756 0.0995 0.7597  0.6415 -0.2584           1.1444
+    lc_K8_LSTM3 0.0731 0.0889 0.8218  0.6802 -0.1739           1.2670
+    lc_K8_LSTM1 0.0760 0.0936 0.8124  0.6803 -0.2038           1.1785
+   strategy              vs  d_sharpe  p_sharpe  d_ratio  p_ratio                                                 role  holm_p_sharpe
+   D6_QLSTM     reg_wd_FWPC    0.1560    0.0115   0.1834   0.0105 ② primary (best regularized classical by validation)            NaN
+   D6_QLSTM  reg_early_FWPC    0.1229    0.0510   0.1578   0.0345                                                ② all         0.4080
+   D6_QLSTM reg_early_LSTM3    0.1089    0.0655   0.1582   0.0270                                                ② all         0.4080
+   D6_QLSTM reg_early_LSTM1    0.1099    0.0605   0.1685   0.0230                                                ② all         0.4080
+   D6_QLSTM     reg_wd_FWPC    0.1560    0.0115   0.1834   0.0105                                                ② all         0.1035
+   D6_QLSTM    reg_wd_LSTM3    0.0424    0.1060   0.0646   0.0530                                                ② all         0.4080
+   D6_QLSTM    reg_wd_LSTM1    0.0603    0.0820   0.0979   0.0270                                                ② all         0.4080
+   D6_QLSTM   reg_turn_FWPC    0.1113    0.0595   0.1455   0.0370                                                ② all         0.4080
+   D6_QLSTM  reg_turn_LSTM3    0.1166    0.0560   0.1644   0.0265                                                ② all         0.4080
+   D6_QLSTM  reg_turn_LSTM1    0.1030    0.0685   0.1565   0.0265                                                ② all         0.4080
+   D6_QLSTM  ff_std_FFLSTM1    0.1720    0.0035   0.1571   0.0075                                                    ③            NaN
+   D6_QLSTM  ff_std_FFLSTM3    0.1449    0.0180   0.1663   0.0130                                                    ③            NaN
+lc_K2_QLSTM     lc_K2_LSTM3    0.0288    0.2340   0.0479   0.1480                                                ④ K=2            NaN
+lc_K4_QLSTM     lc_K4_LSTM3    0.0524    0.1525   0.0859   0.0650                                                ④ K=4            NaN
+lc_K8_QLSTM     lc_K8_LSTM3    0.0371    0.3035   0.0424   0.2975                                                ④ K=8            NaN
+   D6_QLSTM        D6_LSTM3    0.1363    0.0080   0.1510   0.0080                                     ④ full data (D6)            NaN
+{
+ "best_regularized_classical": "reg_wd_FWPC",
+ "criterion2_regularization": true,
+ "criterion3_fourier": true,
+ "criterion4_less_data_more_advantage": false,
+ "quantum_structure_necessary": true,
+ "lc_gaps": {
+  "2": 0.02878612789378776,
+  "4": 0.052410651021920995,
+  "8": 0.03710220784088114
+ },
+ "full_gap": 0.13628246217645368
+}

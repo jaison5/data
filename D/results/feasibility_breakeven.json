@@ -1,0 +1,26 @@
+{
+ "QQQ long/flat": {
+  "CAGR": 0.56,
+  "Sharpe": 0.54
+ },
+ "QQQ long/short": {
+  "CAGR": 0.56,
+  "Sharpe": 0.56
+ },
+ "QQQ overlay 1.5/0.5": {
+  "CAGR": 0.53,
+  "Sharpe": 0.54
+ },
+ "SPY long/flat": {
+  "CAGR": 0.56,
+  "Sharpe": 0.55
+ },
+ "SPY long/short": {
+  "CAGR": 0.57,
+  "Sharpe": 0.57
+ },
+ "SPY overlay 1.5/0.5": {
+  "CAGR": 0.54,
+  "Sharpe": 0.54
+ }
+}

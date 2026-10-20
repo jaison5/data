@@ -1,0 +1,1 @@
+{"variant": "leaky", "model": "QLSTM", "batch": 64, "budget": "epochs", "seed": 3, "updates": 138, "n_train": 4374, "n_test": 1094, "rmse": 0.004604788534296292, "rw_rmse": 0.004985031545858912, "da_paper": 55.14705882352941, "da_known": 67.03397612488521, "seconds": 1.6785407543182373, "runner": "gpu_batch/cuda"}

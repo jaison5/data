@@ -1,0 +1,15 @@
+{
+ "model": "QLSTM",
+ "batch": 8,
+ "seed": 1,
+ "variant": "paper",
+ "n_params": 32,
+ "rmse": 0.00396367217768565,
+ "da_paper": 59.92647058823529,
+ "da_known": 73.82920110192838,
+ "inference_s": 0.2625466649999453,
+ "train_forward_s": 4.333391171999551,
+ "backward_s": 10.350388248000058,
+ "full_train_s": 14.772754256999974,
+ "steps_per_epoch": 547
+}

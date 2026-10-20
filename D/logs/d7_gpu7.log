@@ -1,0 +1,13 @@
+B:\qfin-main\A\gpu_batch.py:54: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  self.P = {k: torch.stack([dict(m.named_parameters())[k].detach() for m in ms]).to(device).requires_grad_(True)
+cap1 2014 QLSTM  15 models, 32 s
+cap1 2014 QLSTM   5 models, 20 s
+cap1 2012 QLSTM  15 models, 10 s
+cap1 2012 QLSTM   5 models, 9 s
+cap1 2011 QLSTM  15 models, 39 s
+cap1 2011 QLSTM   5 models, 23 s
+cap1 2009 QLSTM  15 models, 18 s
+cap1 2009 QLSTM   5 models, 24 s
+cap1 2007 QLSTM  15 models, 28 s
+cap1 2007 QLSTM   5 models, 28 s
+D7 done

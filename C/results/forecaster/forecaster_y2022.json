@@ -1,0 +1,10 @@
+{
+ "test_year": 2022,
+ "n_train": 471,
+ "n_val": 9,
+ "n_test": 26,
+ "val_acc": 0.6666666666666666,
+ "test_acc": 0.6923076923076923,
+ "test_majority": 0.5384615384615384,
+ "test_correct": 18
+}

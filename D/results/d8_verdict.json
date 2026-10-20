@@ -1,0 +1,13 @@
+{
+ "best_regularized_classical": "reg_wd_FWPC",
+ "criterion2_regularization": true,
+ "criterion3_fourier": true,
+ "criterion4_less_data_more_advantage": false,
+ "quantum_structure_necessary": true,
+ "lc_gaps": {
+  "2": 0.02878612789378776,
+  "4": 0.052410651021920995,
+  "8": 0.03710220784088114
+ },
+ "full_gap": 0.13628246217645368
+}

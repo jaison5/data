@@ -1,0 +1,17 @@
+A3C_small paper qlstm y2023 s2: 100/1600 episodes，近 100 次平均獎勵 52.6，驗證 Sharpe 0.73（交易 6 次），0.3 分鐘
+A3C_small paper qlstm y2023 s2: 200/1600 episodes，近 100 次平均獎勵 544.7，驗證 Sharpe 0.73（交易 6 次），0.3 分鐘
+A3C_small paper qlstm y2023 s2: 300/1600 episodes，近 100 次平均獎勵 1113.8，驗證 Sharpe -0.58（交易 10 次），0.3 分鐘
+A3C_small paper qlstm y2023 s2: 400/1600 episodes，近 100 次平均獎勵 1619.9，驗證 Sharpe -0.05（交易 16 次），0.4 分鐘
+A3C_small paper qlstm y2023 s2: 500/1600 episodes，近 100 次平均獎勵 2084.5，驗證 Sharpe -0.32（交易 18 次），0.4 分鐘
+A3C_small paper qlstm y2023 s2: 600/1600 episodes，近 100 次平均獎勵 2454.1，驗證 Sharpe -0.34（交易 21 次），0.5 分鐘
+A3C_small paper qlstm y2023 s2: 700/1600 episodes，近 100 次平均獎勵 2809.5，驗證 Sharpe -0.11（交易 24 次），0.6 分鐘
+A3C_small paper qlstm y2023 s2: 800/1600 episodes，近 100 次平均獎勵 3088.4，驗證 Sharpe -0.11（交易 24 次），0.6 分鐘
+A3C_small paper qlstm y2023 s2: 900/1600 episodes，近 100 次平均獎勵 3282.5，驗證 Sharpe -0.31（交易 29 次），0.7 分鐘
+A3C_small paper qlstm y2023 s2: 1000/1600 episodes，近 100 次平均獎勵 3679.1，驗證 Sharpe -0.24（交易 37 次），0.7 分鐘
+A3C_small paper qlstm y2023 s2: 1100/1600 episodes，近 100 次平均獎勵 3759.6，驗證 Sharpe 0.01（交易 43 次），0.8 分鐘
+A3C_small paper qlstm y2023 s2: 1200/1600 episodes，近 100 次平均獎勵 3974.8，驗證 Sharpe 0.02（交易 48 次），0.8 分鐘
+A3C_small paper qlstm y2023 s2: 1300/1600 episodes，近 100 次平均獎勵 4167.9，驗證 Sharpe -0.19（交易 53 次），0.9 分鐘
+A3C_small paper qlstm y2023 s2: 1400/1600 episodes，近 100 次平均獎勵 4240.3，驗證 Sharpe 0.42（交易 56 次），0.9 分鐘
+A3C_small paper qlstm y2023 s2: 1500/1600 episodes，近 100 次平均獎勵 4457.1，驗證 Sharpe 0.61（交易 60 次），1.0 分鐘
+A3C_small paper qlstm y2023 s2: 1600/1600 episodes，近 100 次平均獎勵 4672.1，驗證 Sharpe 0.23（交易 64 次），1.0 分鐘
+完成 A3C_small_paper_qlstm_y2023_s2.json：測試年報酬 -0.20%（成本 0.05%），Sharpe -0.82，交易 6 次，持倉 3%，1.0 分鐘

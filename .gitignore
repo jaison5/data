@@ -1,0 +1,21 @@
+# Python environments and caches
+.venv*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Run-time lock files used to share work between processes
+_locks*/
+*.lock
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# LaTeX build output
+*.aux
+*.bbl
+*.blg
+*.synctex.gz

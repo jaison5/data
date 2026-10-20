@@ -1,0 +1,9 @@
+{
+ "model": "QLSTM",
+ "batch": 4,
+ "seed": 2,
+ "opt": "rmsprop",
+ "lr": 0.01,
+ "rmse": 0.004343001621334895,
+ "da_paper": 62.5
+}

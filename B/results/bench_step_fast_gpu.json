@@ -1,0 +1,106 @@
+{
+ "rows": [
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 1,
+   "fwd_ms": 7.044049998512492,
+   "bwd_ms": 17.048650013748556,
+   "step_ms": 24.092700012261048,
+   "per_sample_ms": 24.092700012261048,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 4,
+   "fwd_ms": 6.943699991097674,
+   "bwd_ms": 16.933999984757975,
+   "step_ms": 23.87769997585565,
+   "per_sample_ms": 5.969424993963912,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 16,
+   "fwd_ms": 6.824599986430258,
+   "bwd_ms": 16.71324999188073,
+   "step_ms": 23.537849978310987,
+   "per_sample_ms": 1.4711156236444367,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 64,
+   "fwd_ms": 6.897700019180775,
+   "bwd_ms": 16.69404996209778,
+   "step_ms": 23.591749981278554,
+   "per_sample_ms": 0.3686210934574774,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_gpu",
+   "batch": 256,
+   "fwd_ms": 6.83170001138933,
+   "bwd_ms": 16.777949989773333,
+   "step_ms": 23.609650001162663,
+   "per_sample_ms": 0.09222519531704165,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 1,
+   "fwd_ms": 3.60780002665706,
+   "bwd_ms": 2.586599992355332,
+   "step_ms": 6.194400019012392,
+   "per_sample_ms": 6.194400019012392,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 4,
+   "fwd_ms": 3.6461499985307455,
+   "bwd_ms": 2.5498000031802803,
+   "step_ms": 6.195950001711026,
+   "per_sample_ms": 1.5489875004277565,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 16,
+   "fwd_ms": 3.609899984439835,
+   "bwd_ms": 2.5821499875746667,
+   "step_ms": 6.192049972014502,
+   "per_sample_ms": 0.38700312325090636,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 64,
+   "fwd_ms": 3.6432000051718205,
+   "bwd_ms": 2.533699997002259,
+   "step_ms": 6.176900002174079,
+   "per_sample_ms": 0.09651406253396999,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_gpu",
+   "batch": 256,
+   "fwd_ms": 3.6296999896876514,
+   "bwd_ms": 2.5525999953970313,
+   "step_ms": 6.182299985084683,
+   "per_sample_ms": 0.024149609316737042,
+   "reps": 50
+  }
+ ],
+ "torch": "2.11.0+cu128",
+ "threads": 1
+}

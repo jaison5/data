@@ -1,0 +1,49 @@
+QLSTM b=32 s=0 fwd=166.9s bwd=131.5s full=298.5s inf=18.97s rmse=0.00424
+QLSTM b=32 s=1 fwd=168.1s bwd=132.0s full=300.2s inf=19.23s rmse=0.00426
+QLSTM b=64 s=1 fwd=170.7s bwd=131.6s full=302.4s inf=19.57s rmse=0.00443
+QLSTM b=64 s=0 fwd=171.5s bwd=131.8s full=303.4s inf=19.36s rmse=0.00412
+QLSTM b=16 s=2 fwd=175.5s bwd=132.3s full=308.0s inf=19.96s rmse=0.00420
+QLSTM b=16 s=1 fwd=176.9s bwd=133.0s full=310.2s inf=19.60s rmse=0.00406
+QLSTM b=16 s=0 fwd=177.3s bwd=133.5s full=310.9s inf=19.44s rmse=0.00428
+QLSTM b= 8 s=2 fwd=194.2s bwd=134.3s full=328.8s inf=20.68s rmse=0.00408
+QLSTM b= 8 s=0 fwd=195.9s bwd=134.9s full=331.2s inf=20.76s rmse=0.00398
+QLSTM b= 8 s=1 fwd=196.0s bwd=135.8s full=332.1s inf=20.94s rmse=0.00376
+QFWP  b=16 s=0 fwd=22.5s bwd=3.8s full=26.5s inf=2.64s rmse=0.00296
+QFWP  b=32 s=0 fwd=23.1s bwd=3.6s full=26.8s inf=2.40s rmse=0.00299
+QFWP  b= 8 s=0 fwd=24.6s bwd=4.4s full=29.2s inf=2.82s rmse=0.00307
+QFWP  b= 4 s=0 fwd=28.9s bwd=5.1s full=34.7s inf=3.30s rmse=0.00308
+QFWP  b=64 s=0 fwd=23.1s bwd=3.7s full=26.9s inf=2.67s rmse=0.00293
+QFWP  b=32 s=1 fwd=22.9s bwd=3.7s full=26.7s inf=2.61s rmse=0.00290
+QFWP  b=16 s=1 fwd=23.5s bwd=3.9s full=27.6s inf=2.48s rmse=0.00304
+QFWP  b=64 s=1 fwd=22.1s bwd=3.5s full=25.7s inf=2.52s rmse=0.00316
+QFWP  b= 8 s=1 fwd=24.2s bwd=4.3s full=28.8s inf=2.73s rmse=0.00313
+QFWP  b= 4 s=1 fwd=29.4s bwd=5.2s full=35.2s inf=3.32s rmse=0.00632
+QLSTM b= 4 s=0 fwd=227.1s bwd=142.2s full=369.9s inf=24.62s rmse=0.00406
+QLSTM b= 4 s=2 fwd=226.5s bwd=142.7s full=369.9s inf=24.84s rmse=0.00483
+QLSTM b= 4 s=1 fwd=227.8s bwd=142.8s full=371.3s inf=24.81s rmse=0.00387
+QFWP  b= 1 s=0 fwd=58.3s bwd=9.4s full=70.0s inf=6.32s rmse=0.00453
+QFWP  b=16 s=2 fwd=21.1s bwd=3.5s full=24.8s inf=2.24s rmse=0.00307
+QFWP  b=32 s=2 fwd=20.8s bwd=3.3s full=24.2s inf=2.31s rmse=0.00347
+QFWP  b=64 s=2 fwd=20.5s bwd=3.2s full=23.8s inf=2.31s rmse=0.00420
+QFWP  b= 8 s=2 fwd=22.3s bwd=4.0s full=26.5s inf=2.59s rmse=0.00304
+QFWP  b= 4 s=2 fwd=26.7s bwd=4.8s full=32.0s inf=2.88s rmse=0.00412
+QFWP  b= 1 s=1 fwd=56.7s bwd=9.1s full=68.0s inf=5.95s rmse=0.00661
+QFWP  b= 1 s=2 fwd=54.0s bwd=8.6s full=64.6s inf=8.00s rmse=0.00672
+QLSTM b=32 s=2 fwd=153.2s bwd=135.8s full=289.1s inf=23.11s rmse=0.00429
+QLSTM b= 1 s=2 fwd=416.9s bwd=170.1s full=589.6s inf=45.87s rmse=0.00400
+QLSTM b= 1 s=1 fwd=418.2s bwd=170.1s full=591.0s inf=44.74s rmse=0.00406
+QLSTM b= 1 s=0 fwd=418.6s bwd=170.8s full=592.1s inf=46.60s rmse=0.00395
+QLSTM b=64 s=2 fwd=167.4s bwd=129.5s full=297.0s inf=21.65s rmse=0.00457
+device_vjp=True（中位數秒數；括號內為 non-batch ÷ batch 的加速比中位數）
+QFWP  b= 1 n=3 train_forward=56.7 backward=9.1 full_train=68.0 inference=6.3
+QFWP  b= 4 n=3 train_forward=28.9 (2.02x) backward=5.1 (1.80x) full_train=34.7 (2.02x) inference=3.3 (1.91x)
+QFWP  b= 8 n=3 train_forward=24.2 (2.37x) backward=4.3 (2.15x) full_train=28.8 (2.39x) inference=2.7 (2.25x)
+QFWP  b=16 n=3 train_forward=22.5 (2.55x) backward=3.8 (2.43x) full_train=26.5 (2.60x) inference=2.5 (2.40x)
+QFWP  b=32 n=3 train_forward=22.9 (2.53x) backward=3.6 (2.56x) full_train=26.7 (2.61x) inference=2.4 (2.63x)
+QFWP  b=64 n=3 train_forward=22.1 (2.56x) backward=3.5 (2.59x) full_train=25.7 (2.65x) inference=2.5 (2.37x)
+QLSTM b= 1 n=3 train_forward=418.2 backward=170.1 full_train=591.0 inference=45.9
+QLSTM b= 4 n=3 train_forward=227.1 (1.84x) backward=142.7 (1.19x) full_train=369.9 (1.59x) inference=24.8 (1.85x)
+QLSTM b= 8 n=3 train_forward=195.9 (2.14x) backward=134.9 (1.27x) full_train=331.2 (1.79x) inference=20.8 (2.22x)
+QLSTM b=16 n=3 train_forward=176.9 (2.36x) backward=133.0 (1.28x) full_train=310.2 (1.91x) inference=19.6 (2.30x)
+QLSTM b=32 n=3 train_forward=166.9 (2.51x) backward=132.0 (1.29x) full_train=298.5 (1.98x) inference=19.2 (2.33x)
+QLSTM b=64 n=3 train_forward=170.7 (2.45x) backward=131.6 (1.30x) full_train=302.4 (1.95x) inference=19.6 (2.29x)

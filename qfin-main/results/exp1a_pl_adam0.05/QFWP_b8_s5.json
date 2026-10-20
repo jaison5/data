@@ -1,0 +1,16 @@
+{
+ "model": "QFWP",
+ "batch": 8,
+ "seed": 5,
+ "variant": "paper",
+ "backend": "lightning.qubit/adjoint",
+ "n_params": 33,
+ "rmse": 0.0029496416324364567,
+ "da_paper": 71.96691176470588,
+ "da_known": 79.43067033976125,
+ "train_forward_s": 33.64491753152106,
+ "backward_s": 2.37409003789071,
+ "full_train_s": 36.314217207953334,
+ "inference_s": 2.8389635420171544,
+ "steps_per_epoch": 547
+}

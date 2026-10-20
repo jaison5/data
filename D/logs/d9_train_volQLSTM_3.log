@@ -1,0 +1,8 @@
+B:\qfin-main\A\gpu_batch.py:54: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  self.P = {k: torch.stack([dict(m.named_parameters())[k].detach() for m in ms]).to(device).requires_grad_(True)
+vol:QLSTM 2026 lr=0.02 1703 s [cuda]  max|£G| vs original 2.7e-15, seeds with |£G|>1e-6: 0
+vol:QLSTM 2021 lr=0.05 627 s [cuda]  max|£G| vs original 2.7e-15, seeds with |£G|>1e-6: 0
+vol:QLSTM 2018 lr=0.02 308 s [cuda]  max|£G| vs original 2.0e-15, seeds with |£G|>1e-6: 0
+vol:QLSTM 2017 lr=0.05 322 s [cuda]  max|£G| vs original 2.0e-15, seeds with |£G|>1e-6: 0
+vol:QLSTM 2013 lr=0.02 245 s [cuda]  max|£G| vs original 2.2e-15, seeds with |£G|>1e-6: 0
+vol:QLSTM 2010 lr=0.02 186 s [cuda]  max|£G| vs original 2.4e-15, seeds with |£G|>1e-6: 0

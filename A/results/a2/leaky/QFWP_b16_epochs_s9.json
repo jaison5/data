@@ -1,0 +1,1 @@
+{"variant": "leaky", "model": "QFWP", "batch": 16, "budget": "epochs", "seed": 9, "updates": 548, "n_train": 4374, "n_test": 1094, "rmse": 0.0031016936360396224, "rw_rmse": 0.004985031545858912, "da_paper": 71.96691176470588, "da_known": 77.41046831955923, "seconds": 0.32824752330780027, "runner": "gpu_batch/cpu"}

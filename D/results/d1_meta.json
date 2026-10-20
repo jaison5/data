@@ -1,0 +1,10 @@
+{
+ "eval": [
+  "2008-01-02",
+  "2026-10-19"
+ ],
+ "n_trials": 45,
+ "best_QQQ_by_Sharpe": "QQQ vol target 20% (cap 1.5x)",
+ "DSR": 0.9862230482603664,
+ "SR0_annual (expected max Sharpe under no skill)": 0.3306492764344874
+}

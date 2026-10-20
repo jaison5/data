@@ -1,0 +1,13 @@
+{
+ "model": "QLSTM",
+ "batch": 1,
+ "seed": 0,
+ "device_vjp": true,
+ "rmse": 0.003950833700311139,
+ "da_paper": 60.56985294117647,
+ "train_forward_s": 418.6369783980772,
+ "backward_s": 170.79690239898628,
+ "full_train_s": 592.0522774999845,
+ "inference_s": 46.603500599972904,
+ "inference_batch": 1
+}

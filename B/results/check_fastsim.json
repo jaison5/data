@@ -1,0 +1,72 @@
+{
+ "QLSTM": {
+  "n_params_pl": 32,
+  "n_params_fastsim": 32,
+  "max_abs_diff_init": 0.0,
+  "max_abs_diff_output": 8.326672684688674e-17,
+  "max_abs_diff_grad": 4.440892098500626e-16,
+  "ok": true
+ },
+ "QFWP": {
+  "n_params_pl": 33,
+  "n_params_fastsim": 33,
+  "max_abs_diff_init": 0.0,
+  "max_abs_diff_output": 1.1102230246251565e-16,
+  "max_abs_diff_grad": 8.881784197001252e-16,
+  "ok": true
+ },
+ "QLSTM2": {
+  "n_params_pl": 38,
+  "n_params_fastsim": 38,
+  "max_abs_diff_init": 0.0,
+  "max_abs_diff_output": 1.6653345369377348e-16,
+  "max_abs_diff_grad": 1.7763568394002505e-15,
+  "ok": true
+ },
+ "QA3C": {
+  "n_params_pl": 244,
+  "n_params_fastsim": 244,
+  "max_abs_diff_init": 0.0,
+  "max_abs_diff_output": 3.3306690738754696e-16,
+  "max_abs_diff_grad": 7.105427357601002e-15,
+  "ok": true
+ },
+ "dead_parameters": {
+  "QLSTM": {
+   "n_params": 32,
+   "n_zero_grad": 16,
+   "zero_grad_params": [
+    "w.0[3]",
+    "w.0[4]",
+    "w.0[5]",
+    "w.0[6]",
+    "w.1[3]",
+    "w.1[4]",
+    "w.1[5]",
+    "w.1[6]",
+    "w.2[3]",
+    "w.2[4]",
+    "w.2[5]",
+    "w.2[6]",
+    "w.3[3]",
+    "w.3[4]",
+    "w.3[5]",
+    "w.3[6]"
+   ]
+  },
+  "QFWP": {
+   "n_params": 33,
+   "n_zero_grad": 8,
+   "zero_grad_params": [
+    "qub.weight[3]",
+    "qub.weight[4]",
+    "qub.weight[5]",
+    "qub.weight[6]",
+    "qub.weight[7]",
+    "qub.weight[8]",
+    "qub.bias[1]",
+    "qub.bias[2]"
+   ]
+  }
+ }
+}

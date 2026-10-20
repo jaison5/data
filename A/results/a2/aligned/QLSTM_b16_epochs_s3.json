@@ -1,0 +1,1 @@
+{"variant": "aligned", "model": "QLSTM", "batch": 16, "budget": "epochs", "seed": 3, "updates": 548, "n_train": 4374, "n_test": 1093, "rmse": 0.00545958488042462, "rw_rmse": 0.004986777821049338, "da_paper": 49.31002759889604, "da_known": 49.356617647058826, "seconds": 6.883409428596496, "runner": "gpu_batch/cuda"}

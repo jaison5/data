@@ -1,0 +1,22 @@
+{
+ "etf_ratio": {
+  "VOO_2008-01-02": 0.8769450788309453,
+  "VOO_2010-09-10": 0.8769450788309453,
+  "IVV_2008-01-02": 0.575533797936914,
+  "IVV_2010-09-10": 0.8731308865166747,
+  "SPY_2008-01-02": 0.5707105153272205,
+  "SPY_2010-09-10": 0.876995083542633
+ },
+ "best_reg": "reg_wd_FWPC",
+ "primary": [
+  "hw",
+  1000,
+  false
+ ],
+ "all_passed": true,
+ "circuits_per_day": {
+  "QLSTM (per model)": "5 time steps x 4 circuits = 20 (7 qubits, 6 CNOTs)",
+  "QFWP (per model)": "1 (3 qubits, 2 CNOTs)",
+  "models": 10
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "test_year": 2020,
+ "n_train": 450,
+ "n_val": 11,
+ "n_test": 10,
+ "val_acc": 0.5454545454545454,
+ "test_acc": 0.3,
+ "test_majority": 0.7,
+ "test_correct": 3
+}

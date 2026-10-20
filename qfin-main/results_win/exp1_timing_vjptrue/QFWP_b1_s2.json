@@ -1,0 +1,13 @@
+{
+ "model": "QFWP",
+ "batch": 1,
+ "seed": 2,
+ "device_vjp": true,
+ "rmse": 0.006720798419775836,
+ "da_paper": 56.06617647058824,
+ "train_forward_s": 53.965275199036114,
+ "backward_s": 8.5688902012771,
+ "full_train_s": 64.63021560001653,
+ "inference_s": 8.00220090005314,
+ "inference_batch": 1
+}

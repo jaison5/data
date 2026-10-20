@@ -1,0 +1,492 @@
+{
+ "rows": [
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 1,
+   "fwd_ms": 34.83520000008866,
+   "bwd_ms": 3.359600028488785,
+   "step_ms": 38.19480002857745,
+   "per_sample_ms": 38.19480002857745,
+   "reps": 33
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 4,
+   "fwd_ms": 77.43819995084777,
+   "bwd_ms": 7.215999998152256,
+   "step_ms": 84.65419994900003,
+   "per_sample_ms": 21.163549987250008,
+   "reps": 17
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 16,
+   "fwd_ms": 240.4829500010237,
+   "bwd_ms": 21.803449984872714,
+   "step_ms": 262.2863999858964,
+   "per_sample_ms": 16.392899999118526,
+   "reps": 6
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 64,
+   "fwd_ms": 1021.0247000213712,
+   "bwd_ms": 78.3796000177972,
+   "step_ms": 1099.4043000391684,
+   "per_sample_ms": 17.178192188112007,
+   "reps": 3
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_adjoint",
+   "batch": 256,
+   "fwd_ms": 4393.387600022834,
+   "bwd_ms": 533.9394999900833,
+   "step_ms": 4927.327100012917,
+   "per_sample_ms": 19.247371484425457,
+   "reps": 3
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 1,
+   "fwd_ms": 6.175949994940311,
+   "bwd_ms": 0.6855000101495534,
+   "step_ms": 6.861450005089864,
+   "per_sample_ms": 6.861450005089864,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 4,
+   "fwd_ms": 12.610500009031966,
+   "bwd_ms": 1.1129000049550086,
+   "step_ms": 13.723400013986975,
+   "per_sample_ms": 3.4308500034967437,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 16,
+   "fwd_ms": 36.06080001918599,
+   "bwd_ms": 2.632949996041134,
+   "step_ms": 38.693750015227124,
+   "per_sample_ms": 2.4183593759516953,
+   "reps": 40
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 64,
+   "fwd_ms": 116.81139998836443,
+   "bwd_ms": 8.236999972723424,
+   "step_ms": 125.04839996108785,
+   "per_sample_ms": 1.9538812493919977,
+   "reps": 11
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_adjoint",
+   "batch": 256,
+   "fwd_ms": 570.6768999807537,
+   "bwd_ms": 31.7403000080958,
+   "step_ms": 602.4171999888495,
+   "per_sample_ms": 2.353192187456443,
+   "reps": 3
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 1,
+   "fwd_ms": 34.70349998679012,
+   "bwd_ms": 16.130600008182228,
+   "step_ms": 50.83409999497235,
+   "per_sample_ms": 50.83409999497235,
+   "reps": 27
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 4,
+   "fwd_ms": 77.8330999892205,
+   "bwd_ms": 52.04420001246035,
+   "step_ms": 129.87730000168085,
+   "per_sample_ms": 32.46932500042021,
+   "reps": 11
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 16,
+   "fwd_ms": 242.8700499876868,
+   "bwd_ms": 191.12265002331696,
+   "step_ms": 433.99270001100376,
+   "per_sample_ms": 27.124543750687735,
+   "reps": 4
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 64,
+   "fwd_ms": 1002.8252000338398,
+   "bwd_ms": 773.2164000044577,
+   "step_ms": 1776.0416000382975,
+   "per_sample_ms": 27.750650000598398,
+   "reps": 3
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_vjp",
+   "batch": 256,
+   "fwd_ms": 4662.9568000207655,
+   "bwd_ms": 3370.9221000317484,
+   "step_ms": 8033.878900052514,
+   "per_sample_ms": 31.382339453330133,
+   "reps": 3
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 1,
+   "fwd_ms": 6.217800022568554,
+   "bwd_ms": 1.1812000011559576,
+   "step_ms": 7.399000023724511,
+   "per_sample_ms": 7.399000023724511,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 4,
+   "fwd_ms": 12.654999969527125,
+   "bwd_ms": 2.3685499909333885,
+   "step_ms": 15.023549960460514,
+   "per_sample_ms": 3.7558874901151285,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 16,
+   "fwd_ms": 32.080399978440255,
+   "bwd_ms": 5.9757999842986465,
+   "step_ms": 38.0561999627389,
+   "per_sample_ms": 2.3785124976711813,
+   "reps": 35
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 64,
+   "fwd_ms": 111.71960001229309,
+   "bwd_ms": 21.226500015472993,
+   "step_ms": 132.94610002776608,
+   "per_sample_ms": 2.077282812933845,
+   "reps": 10
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_vjp",
+   "batch": 256,
+   "fwd_ms": 556.0976000269875,
+   "bwd_ms": 82.18219998525456,
+   "step_ms": 638.279800012242,
+   "per_sample_ms": 2.4932804687978205,
+   "reps": 3
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_pshift",
+   "batch": 1,
+   "error": "Computing the gradient of broadcasted tapes with respect to the broadcasted parameters using the parameter-shift rule gradient transform is currently not supported. See #4462 for details."
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_pshift",
+   "batch": 4,
+   "error": "Computing the gradient of broadcasted tapes with respect to the broadcasted parameters using the parameter-shift rule gradient transform is currently not supported. See #4462 for details."
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_pshift",
+   "batch": 1,
+   "error": "Computing the gradient of broadcasted tapes with respect to the broadcasted parameters using the parameter-shift rule gradient transform is currently not supported. See #4462 for details."
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_pshift",
+   "batch": 4,
+   "error": "Computing the gradient of broadcasted tapes with respect to the broadcasted parameters using the parameter-shift rule gradient transform is currently not supported. See #4462 for details."
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 1,
+   "fwd_ms": 58.537500037346035,
+   "bwd_ms": 32.07650000695139,
+   "step_ms": 90.61400004429743,
+   "per_sample_ms": 90.61400004429743,
+   "reps": 17
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 4,
+   "fwd_ms": 59.587700001429766,
+   "bwd_ms": 33.85880001587793,
+   "step_ms": 93.4465000173077,
+   "per_sample_ms": 23.361625004326925,
+   "reps": 15
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 16,
+   "fwd_ms": 71.25249999808148,
+   "bwd_ms": 45.36989994812757,
+   "step_ms": 116.62239994620904,
+   "per_sample_ms": 7.288899996638065,
+   "reps": 13
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 64,
+   "fwd_ms": 83.82274999166839,
+   "bwd_ms": 66.81089999619871,
+   "step_ms": 150.6336499878671,
+   "per_sample_ms": 2.3536507810604235,
+   "reps": 10
+  },
+  {
+   "model": "QLSTM",
+   "backend": "pl_backprop",
+   "batch": 256,
+   "fwd_ms": 137.60570003069006,
+   "bwd_ms": 155.55875000427477,
+   "step_ms": 293.16445003496483,
+   "per_sample_ms": 1.1451736329490814,
+   "reps": 6
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 1,
+   "fwd_ms": 6.1744000122416764,
+   "bwd_ms": 0.9640500065870583,
+   "step_ms": 7.138450018828735,
+   "per_sample_ms": 7.138450018828735,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 4,
+   "fwd_ms": 6.3412000017706305,
+   "bwd_ms": 1.0050999990198761,
+   "step_ms": 7.346300000790507,
+   "per_sample_ms": 1.8365750001976267,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 16,
+   "fwd_ms": 6.420099991373718,
+   "bwd_ms": 1.0076000180561095,
+   "step_ms": 7.427700009429827,
+   "per_sample_ms": 0.4642312505893642,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 64,
+   "fwd_ms": 6.64939999114722,
+   "bwd_ms": 1.0892999998759478,
+   "step_ms": 7.738699991023168,
+   "per_sample_ms": 0.120917187359737,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "pl_backprop",
+   "batch": 256,
+   "fwd_ms": 7.418950030114502,
+   "bwd_ms": 1.361150003504008,
+   "step_ms": 8.78010003361851,
+   "per_sample_ms": 0.034297265756322304,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 1,
+   "fwd_ms": 2.597999991849065,
+   "bwd_ms": 4.285300004994497,
+   "step_ms": 6.8832999968435615,
+   "per_sample_ms": 6.8832999968435615,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 4,
+   "fwd_ms": 2.7951500087510794,
+   "bwd_ms": 4.6695500204805285,
+   "step_ms": 7.464700029231608,
+   "per_sample_ms": 1.866175007307902,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 16,
+   "fwd_ms": 3.4858000290114433,
+   "bwd_ms": 6.130299996584654,
+   "step_ms": 9.616100025596097,
+   "per_sample_ms": 0.6010062515997561,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 64,
+   "fwd_ms": 6.211999978404492,
+   "bwd_ms": 11.882700026035309,
+   "step_ms": 18.0947000044398,
+   "per_sample_ms": 0.2827296875693719,
+   "reps": 50
+  },
+  {
+   "model": "QLSTM",
+   "backend": "fast_cpu",
+   "batch": 256,
+   "fwd_ms": 16.229000000748783,
+   "bwd_ms": 32.587199995759875,
+   "step_ms": 48.81619999650866,
+   "per_sample_ms": 0.19068828123636195,
+   "reps": 29
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 1,
+   "fwd_ms": 0.9813000215217471,
+   "bwd_ms": 0.5550000059884042,
+   "step_ms": 1.5363000275101513,
+   "per_sample_ms": 1.5363000275101513,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 4,
+   "fwd_ms": 0.9939500014297664,
+   "bwd_ms": 0.5671000108122826,
+   "step_ms": 1.561050012242049,
+   "per_sample_ms": 0.39026250306051224,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 16,
+   "fwd_ms": 1.0161000245716423,
+   "bwd_ms": 0.58305001584813,
+   "step_ms": 1.5991500404197723,
+   "per_sample_ms": 0.09994687752623577,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 64,
+   "fwd_ms": 1.0966499976348132,
+   "bwd_ms": 0.6349500035867095,
+   "step_ms": 1.7316000012215227,
+   "per_sample_ms": 0.027056250019086292,
+   "reps": 50
+  },
+  {
+   "model": "QFWP",
+   "backend": "fast_cpu",
+   "batch": 256,
+   "fwd_ms": 2.003349974984303,
+   "bwd_ms": 1.1897000076714903,
+   "step_ms": 3.1930499826557934,
+   "per_sample_ms": 0.012472851494749193,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 1,
+   "fwd_ms": 0.18889998318627477,
+   "bwd_ms": 0.3040499868802726,
+   "step_ms": 0.4929499700665474,
+   "per_sample_ms": 0.4929499700665474,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 4,
+   "fwd_ms": 0.19964997773058712,
+   "bwd_ms": 0.3093999985139817,
+   "step_ms": 0.5090499762445688,
+   "per_sample_ms": 0.1272624940611422,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 16,
+   "fwd_ms": 0.2046999870799482,
+   "bwd_ms": 0.3105000068899244,
+   "step_ms": 0.5151999939698726,
+   "per_sample_ms": 0.03219999962311704,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 64,
+   "fwd_ms": 0.23605002206750214,
+   "bwd_ms": 0.3284999984316528,
+   "step_ms": 0.5645500204991549,
+   "per_sample_ms": 0.008821094070299296,
+   "reps": 50
+  },
+  {
+   "model": "LSTM",
+   "backend": "lstm",
+   "batch": 256,
+   "fwd_ms": 0.38559999666176736,
+   "bwd_ms": 0.41465001413598657,
+   "step_ms": 0.8002500107977539,
+   "per_sample_ms": 0.0031259766046787263,
+   "reps": 50
+  }
+ ],
+ "torch": "2.14.1+cpu",
+ "threads": 1,
+ "executions_per_call_batch16": {
+  "lightning.qubit": {
+   "execute_and_derivative_batches": 2,
+   "executions": 32,
+   "derivatives": 32
+  },
+  "default.qubit": {
+   "batches": 1,
+   "simulations": 1,
+   "executions": 16
+  }
+ }
+}

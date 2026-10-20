@@ -1,0 +1,181 @@
+訓練樣本 4374（論文 4374）、測試 1094；結果存到 B:\qfin-main\qfin-main\results_win\exp1a_pl_adam0.05
+QLSTM b=64 s=0 rmse=0.00412 DA=59.38 train=198s
+QLSTM b=64 s=1 rmse=0.00443 DA=57.08 train=199s
+QLSTM b=32 s=1 rmse=0.00426 DA=58.18 train=199s
+QLSTM b=32 s=0 rmse=0.00424 DA=59.28 train=199s
+QLSTM b=16 s=0 rmse=0.00428 DA=59.47 train=207s
+QLSTM b=16 s=1 rmse=0.00406 DA=59.65 train=208s
+QLSTM b=16 s=2 rmse=0.00420 DA=60.02 train=209s
+QLSTM b= 8 s=2 rmse=0.00408 DA=60.02 train=228s
+QLSTM b= 8 s=1 rmse=0.00376 DA=60.85 train=228s
+QLSTM b= 8 s=0 rmse=0.00398 DA=59.74 train=228s
+QLSTM b= 4 s=0 rmse=0.00406 DA=58.36 train=265s
+QLSTM b= 4 s=1 rmse=0.00387 DA=60.20 train=267s
+QLSTM b= 4 s=2 rmse=0.00483 DA=62.41 train=267s
+QLSTM b=32 s=2 rmse=0.00429 DA=57.54 train=184s
+QLSTM b=64 s=2 rmse=0.00457 DA=56.34 train=188s
+QLSTM b=32 s=3 rmse=0.00449 DA=56.99 train=188s
+QLSTM b=16 s=3 rmse=0.00433 DA=58.64 train=196s
+QLSTM b=64 s=3 rmse=0.00460 DA=55.15 train=190s
+QLSTM b= 8 s=3 rmse=0.00434 DA=58.82 train=212s
+QLSTM b=32 s=4 rmse=0.00429 DA=57.54 train=183s
+QLSTM b= 4 s=3 rmse=0.00418 DA=59.56 train=255s
+QLSTM b= 1 s=1 rmse=0.00406 DA=60.57 train=480s
+QLSTM b= 1 s=2 rmse=0.00400 DA=62.32 train=483s
+QLSTM b=16 s=4 rmse=0.00411 DA=58.18 train=195s
+QLSTM b= 1 s=0 rmse=0.00395 DA=60.57 train=486s
+QLSTM b= 8 s=4 rmse=0.00420 DA=59.56 train=214s
+QLSTM b= 4 s=4 rmse=0.00501 DA=62.32 train=255s
+QLSTM b=64 s=4 rmse=0.00461 DA=55.51 train=188s
+QLSTM b=32 s=5 rmse=0.00356 DA=61.40 train=185s
+QLSTM b=16 s=5 rmse=0.00354 DA=62.04 train=198s
+QLSTM b= 8 s=5 rmse=0.00365 DA=63.51 train=217s
+QLSTM b=64 s=5 rmse=0.00376 DA=61.03 train=189s
+QLSTM b= 1 s=3 rmse=0.00427 DA=58.27 train=473s
+QLSTM b= 4 s=5 rmse=0.00363 DA=63.69 train=255s
+QLSTM b=32 s=6 rmse=0.00397 DA=59.38 train=189s
+QLSTM b=16 s=6 rmse=0.00401 DA=60.85 train=197s
+QLSTM b=64 s=6 rmse=0.00451 DA=55.88 train=190s
+QLSTM b= 8 s=6 rmse=0.00391 DA=61.03 train=217s
+QLSTM b= 1 s=4 rmse=0.00463 DA=58.00 train=474s
+QLSTM b= 4 s=6 rmse=0.00390 DA=60.75 train=255s
+QLSTM b=32 s=7 rmse=0.00420 DA=58.27 train=188s
+QLSTM b=16 s=7 rmse=0.00448 DA=59.01 train=197s
+QLSTM b= 8 s=7 rmse=0.00455 DA=58.64 train=213s
+QLSTM b= 4 s=7 rmse=0.00388 DA=59.47 train=250s
+QLSTM b=64 s=7 rmse=0.00468 DA=56.62 train=188s
+QLSTM b= 1 s=5 rmse=0.00408 DA=61.21 train=464s
+QLSTM b=16 s=8 rmse=0.00429 DA=59.10 train=198s
+QLSTM b=32 s=8 rmse=0.00420 DA=58.92 train=188s
+QFWP  b= 4 s=0 rmse=0.00308 DA=70.77 train=32s
+QLSTM b=64 s=8 rmse=0.00433 DA=58.00 train=191s
+QLSTM b= 8 s=8 rmse=0.00441 DA=59.28 train=217s
+QFWP  b=16 s=0 rmse=0.00296 DA=70.86 train=25s
+QFWP  b= 8 s=0 rmse=0.00307 DA=71.60 train=28s
+QFWP  b=32 s=0 rmse=0.00299 DA=72.15 train=24s
+QFWP  b= 1 s=0 rmse=0.00647 DA=55.42 train=66s
+QFWP  b=64 s=0 rmse=0.00293 DA=71.42 train=24s
+QLSTM b= 1 s=6 rmse=0.00398 DA=60.20 train=474s
+QLSTM b= 4 s=8 rmse=0.00507 DA=59.01 train=257s
+QFWP  b=16 s=1 rmse=0.00304 DA=71.05 train=24s
+QFWP  b= 8 s=1 rmse=0.00313 DA=71.23 train=27s
+QFWP  b= 4 s=1 rmse=0.00289 DA=70.96 train=33s
+QFWP  b=32 s=1 rmse=0.00290 DA=71.05 train=24s
+QFWP  b=64 s=1 rmse=0.00316 DA=70.96 train=24s
+QLSTM b= 1 s=7 rmse=0.00392 DA=60.48 train=474s
+QFWP  b= 1 s=1 rmse=0.00639 DA=58.09 train=67s
+QFWP  b=16 s=2 rmse=0.00307 DA=71.23 train=24s
+QFWP  b= 4 s=2 rmse=0.00413 DA=69.12 train=32s
+QFWP  b= 8 s=2 rmse=0.00383 DA=66.27 train=27s
+QFWP  b=32 s=2 rmse=0.00347 DA=65.62 train=24s
+QFWP  b=64 s=2 rmse=0.00420 DA=61.67 train=24s
+QLSTM b= 4 s=9 rmse=0.00394 DA=61.58 train=254s
+QFWP  b= 8 s=3 rmse=0.00315 DA=67.00 train=27s
+QFWP  b=16 s=3 rmse=0.00301 DA=70.31 train=24s
+QFWP  b=64 s=3 rmse=0.00372 DA=63.42 train=24s
+QFWP  b=32 s=3 rmse=0.00329 DA=68.20 train=25s
+QFWP  b= 4 s=3 rmse=0.00298 DA=70.40 train=32s
+QFWP  b= 1 s=2 rmse=0.00657 DA=58.09 train=67s
+QFWP  b= 4 s=4 rmse=0.00303 DA=69.76 train=33s
+QFWP  b= 1 s=3 rmse=0.00321 DA=70.04 train=66s
+QFWP  b=32 s=4 rmse=0.00302 DA=69.03 train=24s
+QFWP  b= 8 s=4 rmse=0.00309 DA=71.14 train=27s
+QFWP  b=16 s=4 rmse=0.00301 DA=69.94 train=25s
+QFWP  b=64 s=4 rmse=0.00345 DA=62.13 train=24s
+QFWP  b= 4 s=5 rmse=0.00286 DA=71.69 train=32s
+QFWP  b= 8 s=5 rmse=0.00298 DA=71.97 train=27s
+QFWP  b=16 s=5 rmse=0.00290 DA=71.78 train=24s
+QFWP  b= 1 s=4 rmse=0.00634 DA=58.18 train=67s
+QFWP  b=32 s=5 rmse=0.00288 DA=71.69 train=25s
+QLSTM b=32 s=9 rmse=0.00431 DA=57.17 train=182s
+QFWP  b=64 s=5 rmse=0.00290 DA=71.69 train=24s
+QFWP  b= 8 s=6 rmse=0.00340 DA=71.78 train=27s
+QLSTM b=64 s=9 rmse=0.00433 DA=57.17 train=186s
+QLSTM b=16 s=9 rmse=0.00433 DA=59.47 train=195s
+QFWP  b= 4 s=6 rmse=0.00333 DA=71.14 train=33s
+QFWP  b=16 s=6 rmse=0.00290 DA=71.60 train=25s
+QFWP  b=32 s=6 rmse=0.00302 DA=70.50 train=25s
+QFWP  b=64 s=6 rmse=0.00315 DA=67.37 train=24s
+QFWP  b= 1 s=5 rmse=0.00632 DA=56.43 train=68s
+QFWP  b= 8 s=7 rmse=0.00305 DA=70.86 train=27s
+QLSTM b= 8 s=9 rmse=0.00388 DA=61.76 train=217s
+QFWP  b=16 s=7 rmse=0.00292 DA=71.60 train=25s
+QFWP  b=32 s=7 rmse=0.00319 DA=68.75 train=24s
+QFWP  b=64 s=7 rmse=0.00639 DA=62.04 train=24s
+QFWP  b= 4 s=7 rmse=0.00301 DA=70.86 train=33s
+QFWP  b=16 s=8 rmse=0.00314 DA=69.49 train=25s
+QFWP  b=32 s=8 rmse=0.00361 DA=66.45 train=24s
+QFWP  b= 8 s=8 rmse=0.00310 DA=70.77 train=27s
+LSTM  b= 8 s=0 rmse=0.00307 DA=69.21 train=1s
+LSTM  b= 4 s=0 rmse=0.00303 DA=69.12 train=2s
+LSTM  b=32 s=0 rmse=0.00333 DA=70.59 train=0s
+LSTM  b=16 s=0 rmse=0.00301 DA=70.50 train=0s
+LSTM  b=64 s=0 rmse=0.00301 DA=68.84 train=0s
+QFWP  b= 1 s=6 rmse=0.00293 DA=74.17 train=67s
+LSTM  b= 4 s=1 rmse=0.00325 DA=68.20 train=2s
+LSTM  b=16 s=1 rmse=0.00303 DA=69.67 train=0s
+LSTM  b=32 s=1 rmse=0.00336 DA=68.47 train=0s
+LSTM  b= 8 s=1 rmse=0.00317 DA=67.46 train=1s
+LSTM  b=64 s=1 rmse=0.00315 DA=69.49 train=0s
+QFWP  b=64 s=8 rmse=0.00395 DA=64.06 train=24s
+QFWP  b= 4 s=8 rmse=0.00650 DA=57.08 train=33s
+LSTM  b= 1 s=0 rmse=0.00427 DA=67.10 train=7s
+LSTM  b=32 s=2 rmse=0.00297 DA=70.86 train=0s
+LSTM  b=16 s=2 rmse=0.00303 DA=69.58 train=0s
+LSTM  b=64 s=2 rmse=0.00300 DA=70.59 train=0s
+LSTM  b= 4 s=2 rmse=0.00391 DA=68.66 train=2s
+LSTM  b= 8 s=2 rmse=0.00310 DA=69.49 train=1s
+LSTM  b=16 s=3 rmse=0.00321 DA=69.49 train=0s
+LSTM  b=32 s=3 rmse=0.00353 DA=68.47 train=0s
+LSTM  b= 8 s=3 rmse=0.00307 DA=69.39 train=1s
+LSTM  b=64 s=3 rmse=0.00301 DA=70.59 train=0s
+LSTM  b= 4 s=3 rmse=0.00299 DA=69.94 train=2s
+LSTM  b= 1 s=1 rmse=0.00470 DA=67.00 train=7s
+LSTM  b= 8 s=4 rmse=0.00302 DA=70.68 train=1s
+LSTM  b=16 s=4 rmse=0.00303 DA=70.13 train=0s
+LSTM  b=32 s=4 rmse=0.00298 DA=69.76 train=0s
+LSTM  b=64 s=4 rmse=0.00314 DA=67.83 train=0s
+LSTM  b= 4 s=4 rmse=0.00361 DA=69.76 train=2s
+LSTM  b= 8 s=5 rmse=0.00325 DA=68.66 train=1s
+LSTM  b=16 s=5 rmse=0.00294 DA=70.13 train=0s
+LSTM  b= 4 s=5 rmse=0.00296 DA=69.12 train=2s
+LSTM  b=32 s=5 rmse=0.00290 DA=70.59 train=0s
+LSTM  b=64 s=5 rmse=0.00292 DA=70.50 train=0s
+LSTM  b= 1 s=2 rmse=0.00326 DA=69.03 train=7s
+LSTM  b= 8 s=6 rmse=0.00332 DA=71.42 train=1s
+LSTM  b=16 s=6 rmse=0.00309 DA=70.31 train=0s
+LSTM  b= 4 s=6 rmse=0.00328 DA=70.77 train=2s
+LSTM  b=32 s=6 rmse=0.00306 DA=69.12 train=0s
+LSTM  b= 1 s=3 rmse=0.00329 DA=69.30 train=7s
+LSTM  b=64 s=6 rmse=0.00340 DA=65.99 train=0s
+LSTM  b= 8 s=7 rmse=0.00351 DA=68.29 train=1s
+LSTM  b= 1 s=4 rmse=0.00303 DA=69.85 train=7s
+LSTM  b=32 s=7 rmse=0.00317 DA=68.38 train=0s
+LSTM  b=16 s=7 rmse=0.00341 DA=68.57 train=0s
+LSTM  b=64 s=7 rmse=0.00315 DA=70.13 train=0s
+LSTM  b= 4 s=7 rmse=0.00295 DA=69.49 train=2s
+LSTM  b= 8 s=8 rmse=0.00323 DA=69.49 train=1s
+LSTM  b= 1 s=5 rmse=0.00295 DA=69.30 train=7s
+LSTM  b=32 s=8 rmse=0.00310 DA=69.03 train=0s
+LSTM  b= 4 s=8 rmse=0.00391 DA=69.12 train=2s
+LSTM  b=64 s=8 rmse=0.00414 DA=66.54 train=0s
+LSTM  b=16 s=8 rmse=0.00316 DA=68.29 train=0s
+QFWP  b= 8 s=9 rmse=0.00286 DA=71.78 train=27s
+LSTM  b=16 s=9 rmse=0.00330 DA=70.13 train=0s
+LSTM  b= 8 s=9 rmse=0.00290 DA=70.13 train=1s
+QFWP  b=16 s=9 rmse=0.00310 DA=71.97 train=24s
+LSTM  b=64 s=9 rmse=0.00324 DA=65.72 train=0s
+LSTM  b=32 s=9 rmse=0.00303 DA=69.30 train=0s
+LSTM  b= 4 s=9 rmse=0.00302 DA=70.22 train=2s
+LSTM  b= 1 s=6 rmse=0.00312 DA=69.12 train=7s
+QFWP  b=32 s=9 rmse=0.00297 DA=71.60 train=24s
+QFWP  b=64 s=9 rmse=0.00327 DA=67.28 train=24s
+LSTM  b= 1 s=7 rmse=0.00307 DA=69.67 train=6s
+LSTM  b= 1 s=8 rmse=0.00335 DA=68.57 train=6s
+QFWP  b= 4 s=9 rmse=0.00303 DA=71.60 train=33s
+LSTM  b= 1 s=9 rmse=0.00319 DA=69.85 train=6s
+QFWP  b= 1 s=7 rmse=0.00629 DA=56.16 train=66s
+QFWP  b= 1 s=8 rmse=0.00297 DA=70.22 train=64s
+QFWP  b= 1 s=9 rmse=0.00312 DA=71.88 train=61s
+QLSTM b= 1 s=8 rmse=0.00472 DA=57.08 train=464s
+QLSTM b= 1 s=9 rmse=0.00453 DA=64.61 train=463s

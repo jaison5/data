@@ -1,0 +1,228 @@
+{
+ "forecaster": {
+  "QLSTM": {
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "test_acc": [
+    0.5795454545454546,
+    0.6590909090909091,
+    0.5681818181818182
+   ],
+   "mean": 0.6022727272727274,
+   "std": 0.04953294254023488,
+   "majority": 0.5113636363636364,
+   "n_test": 88,
+   "n_train": 466,
+   "n_params": 38,
+   "balanced": [
+    0.5764857881136951,
+    0.6609819121447028,
+    0.5648578811369509
+   ]
+  }
+ },
+ "agents": {
+  "QA3C": {
+   "per_seed": [
+    {
+     "seed": 0,
+     "total_return_pct": 2.4697023059675027,
+     "max_drawdown_pct": 0.47522174150989027,
+     "trades": 49,
+     "win_rate_pct": 89.79591836734694,
+     "best_trade_pct": 1.398656718686797,
+     "worst_trade_pct": -0.28597807758162785,
+     "sharpe_ann": 1.0875513758167565,
+     "time_in_market_pct": 6.127080181543117,
+     "sum_trade_pct": 18.28500605001406,
+     "action_counts": [
+      0,
+      81,
+      1241
+     ],
+     "train_return_pct": 24.179224662581955,
+     "episodes": 1600,
+     "minutes": 150.95808086792627,
+     "n_params": 244
+    }
+   ],
+   "mean": {
+    "total_return_pct": 2.4697023059675027,
+    "max_drawdown_pct": 0.47522174150989027,
+    "trades": 49.0,
+    "win_rate_pct": 89.79591836734694,
+    "best_trade_pct": 1.398656718686797,
+    "worst_trade_pct": -0.28597807758162785,
+    "sharpe_ann": 1.0875513758167565,
+    "time_in_market_pct": 6.127080181543117,
+    "sum_trade_pct": 18.28500605001406
+   },
+   "std": {
+    "total_return_pct": NaN,
+    "max_drawdown_pct": NaN,
+    "trades": NaN,
+    "win_rate_pct": NaN,
+    "best_trade_pct": NaN,
+    "worst_trade_pct": NaN,
+    "sharpe_ann": NaN,
+    "time_in_market_pct": NaN,
+    "sum_trade_pct": NaN
+   },
+   "paper": {
+    "total_return_pct": 11.87,
+    "max_drawdown_pct": 0.92,
+    "trades": 231,
+    "win_rate_pct": 56.71,
+    "best_trade_pct": 0.61,
+    "worst_trade_pct": -0.88
+   },
+   "buy_hold_pct": 6.91929056977294,
+   "test_window": [
+    "2020-04-01",
+    "2025-04-30"
+   ]
+  },
+  "A3C": {
+   "per_seed": [
+    {
+     "seed": 0,
+     "total_return_pct": 9.187988738377516,
+     "max_drawdown_pct": 1.0942622609369956,
+     "trades": 434,
+     "win_rate_pct": 80.87557603686636,
+     "best_trade_pct": 1.466865502748771,
+     "worst_trade_pct": -0.5308679494922086,
+     "sharpe_ann": 1.5037926451041606,
+     "time_in_market_pct": 59.98487140695915,
+     "sum_trade_pct": 79.18677344695011,
+     "action_counts": [
+      0,
+      793,
+      529
+     ],
+     "train_return_pct": 46.82785350180414,
+     "episodes": 1600,
+     "minutes": 2.649956782658895,
+     "n_params": 3332
+    },
+    {
+     "seed": 1,
+     "total_return_pct": 9.24241284716365,
+     "max_drawdown_pct": 1.0960654077471488,
+     "trades": 440,
+     "win_rate_pct": 80.45454545454545,
+     "best_trade_pct": 1.466865502748771,
+     "worst_trade_pct": -0.5308679494922086,
+     "sharpe_ann": 1.4923126456139189,
+     "time_in_market_pct": 62.25416036308623,
+     "sum_trade_pct": 79.17745385598305,
+     "action_counts": [
+      0,
+      823,
+      499
+     ],
+     "train_return_pct": 47.18146158115131,
+     "episodes": 1600,
+     "minutes": 2.7677281657854715,
+     "n_params": 3332
+    },
+    {
+     "seed": 2,
+     "total_return_pct": 9.32970985460111,
+     "max_drawdown_pct": 0.9803984559341727,
+     "trades": 431,
+     "win_rate_pct": 82.36658932714617,
+     "best_trade_pct": 1.466865502748771,
+     "worst_trade_pct": -0.5889704770197901,
+     "sharpe_ann": 1.4200599006144747,
+     "time_in_market_pct": 63.842662632375195,
+     "sum_trade_pct": 82.8136991826232,
+     "action_counts": [
+      0,
+      844,
+      478
+     ],
+     "train_return_pct": 50.115587751113246,
+     "episodes": 1600,
+     "minutes": 2.741031301021576,
+     "n_params": 3332
+    }
+   ],
+   "mean": {
+    "total_return_pct": 9.253370480047424,
+    "max_drawdown_pct": 1.0569087082061057,
+    "trades": 435.0,
+    "win_rate_pct": 81.23223693951934,
+    "best_trade_pct": 1.466865502748771,
+    "worst_trade_pct": -0.5502354586680691,
+    "sharpe_ann": 1.4720550637775183,
+    "time_in_market_pct": 62.02723146747352,
+    "sum_trade_pct": 80.39264216185212
+   },
+   "std": {
+    "total_return_pct": 0.07149315341154695,
+    "max_drawdown_pct": 0.06626595552499685,
+    "trades": 4.58257569495584,
+    "win_rate_pct": 1.004680641944698,
+    "best_trade_pct": 0.0,
+    "worst_trade_pct": 0.03354550990864682,
+    "sharpe_ann": 0.04539350549734631,
+    "time_in_market_pct": 1.9388813340357518,
+    "sum_trade_pct": 2.096702062063813
+   },
+   "paper": {
+    "total_return_pct": 11.42,
+    "max_drawdown_pct": 0.92,
+    "trades": 230,
+    "win_rate_pct": 54.78,
+    "best_trade_pct": 0.61,
+    "worst_trade_pct": -0.88
+   },
+   "buy_hold_pct": 6.91929056977294,
+   "test_window": [
+    "2020-04-01",
+    "2025-04-30"
+   ]
+  }
+ },
+ "etf": [
+  {
+   "etf": "FXB",
+   "ours_pct": 14.485366398931632,
+   "paper_pct": 13.81
+  },
+  {
+   "etf": "FXF",
+   "ours_pct": 13.14007738532168,
+   "paper_pct": 12.21
+  },
+  {
+   "etf": "USDU",
+   "ours_pct": 11.268818916003243,
+   "paper_pct": 4.91
+  },
+  {
+   "etf": "FXE",
+   "ours_pct": 5.39533062629447,
+   "paper_pct": 4.25
+  },
+  {
+   "etf": "FXC",
+   "ours_pct": 7.209828065128332,
+   "paper_pct": 1.74
+  },
+  {
+   "etf": "FXA",
+   "ours_pct": 7.737310016538412,
+   "paper_pct": -5.79
+  },
+  {
+   "etf": "FXY",
+   "ours_pct": -27.098156776863856,
+   "paper_pct": -29.6
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "model": "QLSTM",
+ "batch": 1,
+ "seed": 0,
+ "backend": "fastsim/cuda",
+ "rmse": 0.0039508337004607935,
+ "da_paper": 60.56985294117647,
+ "train_forward_s": 62.33616490080021,
+ "backward_s": 150.25847290025558,
+ "full_train_s": 216.2095793999615,
+ "inference_s": 0.02968849998433143,
+ "inference_same_batch_s": 6.364916699996684,
+ "steps_per_epoch": 4374
+}

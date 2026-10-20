@@ -1,0 +1,15 @@
+{
+ "model": "QFWP",
+ "batch": 8,
+ "seed": 0,
+ "variant": "paper",
+ "n_params": 33,
+ "rmse": 0.0038886612654832307,
+ "da_paper": 63.23529411764706,
+ "da_known": 70.89072543617998,
+ "inference_s": 0.006929515000024367,
+ "train_forward_s": 1.0172335119992795,
+ "backward_s": 0.7640566319984146,
+ "full_train_s": 1.8907510010000124,
+ "steps_per_epoch": 547
+}

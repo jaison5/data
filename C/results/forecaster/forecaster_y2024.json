@@ -1,0 +1,10 @@
+{
+ "test_year": 2024,
+ "n_train": 506,
+ "n_val": 22,
+ "n_test": 20,
+ "val_acc": 0.6363636363636364,
+ "test_acc": 0.3,
+ "test_majority": 0.7,
+ "test_correct": 6
+}

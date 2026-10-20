@@ -1,0 +1,14 @@
+{
+ "model": "QFWP",
+ "batch": 32,
+ "seed": 2,
+ "backend": "fastsim/cpu",
+ "rmse": 0.003474093998185817,
+ "da_paper": 65.625,
+ "train_forward_s": 0.3911436006310396,
+ "backward_s": 0.21640209999168292,
+ "full_train_s": 0.6734226999687962,
+ "inference_s": 0.006725999992340803,
+ "inference_same_batch_s": 0.038129900000058115,
+ "steps_per_epoch": 137
+}
