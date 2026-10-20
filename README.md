@@ -33,7 +33,7 @@
 
 各實驗的詳細結論見 `D/README.md`；判定標準見 `D/PROTOCOL.md`。
 
-## 事先登記（pre-registration）
+## 事先寫入（pre-registration）
 
 D4 起的每個實驗，都先把模型、比較對象與成功標準寫進 `D/PROTOCOL.md`，再開始訓練；不論結果好壞都照實報告。下表列出 `PROTOCOL.md` 各節記載的撰寫時間，以及該實驗結果檔最早與最晚的修改時間（來自原始電腦的檔案系統，複製時保留；只供參考，不是獨立的時間證明）。
 
@@ -72,8 +72,6 @@ D4 起的每個實驗，都先把模型、比較對象與成功標準寫進 `D/P
 
 ## 資料
 
-`*/data/` 是 Yahoo Finance 日線資料的快照（到 2026-10-19），只供核對研究結果使用；各實驗的下載程式（例如 `A/fetch_data.py`、`D/run_d1.py --fetch`、`qfin-main/fetch_data_yf.py`）可以重新下載。無風險利率用 13 週國庫券殖利率（^IRX）。
+`*/data/` 是 Yahoo Finance 日線資料的快照（到 2026-10-19），只做核對研究結果使用；各實驗的下載程式（例如 `A/fetch_data.py`、`D/run_d1.py --fetch`、`qfin-main/fetch_data_yf.py`）可重新下載。無風險利率用 13 週國庫券殖利率（^IRX）。
 
-## 聲明
-
-回測結果不代表未來績效，本資料夾的內容不是投資建議。程式以 MIT 授權釋出（見 `LICENSE`）。
+回測結果不代表未來績效，資料夾的內容不是投資建議。程式以 MIT 授權。
